@@ -1,0 +1,5 @@
+Depends: R (>= 4.1.0)
+Imports:
+    bibtex,
+    knitr,
+    rmarkdown

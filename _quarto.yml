@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Microbial Genomics"
+  site-url: https://mostowylab.com
+  description: "Microbial Genomics Group — Małopolska Centre of Biotechnology, Jagiellonian University, Kraków"
+  favicon: assets/favicon.png
+
+  navbar:
+    background: light
+    title: false
+
+  page-footer:
+    background: "#111827"
+    left: |
+      Microbial Genomics · Małopolska Centre of Biotechnology
+      Jagiellonian University in Kraków, Poland
+    right: |
+      [mostowylab.com](https://mostowylab.com)
+
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    include-before-body: includes/navbar-center.html

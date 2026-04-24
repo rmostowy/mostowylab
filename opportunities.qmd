@@ -1,0 +1,67 @@
+---
+title: "Join Us"
+page-layout: full
+toc: false
+---
+
+**This is a computational group.** We do not have a wet lab. 
+If you join us, you will write code every day — Python, R, Bash, and whatever else the problem needs. 
+You will not pipette.
+
+This is worth stating clearly because it shapes who will thrive here. 
+If you want to learn bioinformatics, evolutionary genomics, and structural biology *as the primary scientific activity* — not as a support tool for experiments — this is the right place.
+
+---
+
+## What we look for
+
+In every role, we care most about intellectual independence and rigour. We want people who:
+
+- are genuinely curious about evolutionary biology and want to understand mechanism, not just find patterns
+- write clean, reproducible code and take data integrity seriously
+- can read a paper critically and identify what it does and does not show
+- are comfortable with uncertainty and with projects that take a long time to mature
+
+**Prior experience with microbiology or phages is not required.** Strong computational skills and an evolutionary mindset matter more.
+
+---
+
+## PhD positions
+
+We recruit PhD students through the doctoral programme at the [Małopolska Centre of Biotechnology (MCB), Jagiellonian University](https://mcb.uj.edu.pl/en). 
+
+PhD projects in the group focus on:
+
+- Computational characterisation and prediction of phage receptor-binding protein function
+- Evolutionary genomics of *Klebsiella* phages: recombination, mosaicism, and host range
+- Development of bioinformatics pipelines for viral genome analysis
+
+**To enquire about PhD opportunities**, send an email with your CV, a brief description of your computational background, and a paragraph explaining why you are interested in our work specifically. Vague expressions of interest are unlikely to receive a response.
+
+---
+
+## Postdoctoral positions
+
+We currently have no open advertised postdoc positions. However, we are always interested in hearing from strong candidates who want to apply for **independent fellowship funding** to work in the group.
+
+Relevant schemes include:
+
+- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (European Commission)
+- [NCN Polonez Bis](https://www.ncn.gov.pl/en/finansowanie-nauki/przyklady-finansowania/polonez) (National Science Centre Poland)
+- [HFSP Long-Term Fellowships](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) (Human Frontier Science Program)
+- [EMBO Postdoctoral Fellowships](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/)
+
+If you are interested in applying for one of these with us as host, get in touch well before any deadline — fellowship applications require real preparation time and we will only support applications we believe have a genuine chance of success.
+
+---
+
+## MSc students
+
+We take MSc students through Jagiellonian University. If you are enrolled at JU (or another Kraków university) and are looking for a computational thesis project in microbial genomics or phage biology, send a short email introducing yourself.
+
+---
+
+## Contact
+
+[rafal.mostowy@uj.edu.pl](mailto:rafal.mostowy@uj.edu.pl)  
+Małopolska Centre of Biotechnology, Jagiellonian University, Kraków

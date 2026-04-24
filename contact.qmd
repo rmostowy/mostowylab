@@ -1,0 +1,33 @@
+---
+title: "Contact"
+page-layout: full
+toc: false
+---
+
+## Microbial Genomics Group
+
+**Rafal Mostowy**  
+Associate Professor  
+Małopolska Centre of Biotechnology  
+Jagiellonian University  
+ul. Gronostajowa 7A  
+30-387 Kraków, Poland
+
+**Email:** [rafal.mostowy@uj.edu.pl](mailto:rafal.mostowy@uj.edu.pl)  
+**Twitter/X:** [@RafalMostowy](https://twitter.com/RafalMostowy)  
+**ORCID:** [0000-0002-5763-6670](https://orcid.org/0000-0002-5763-6670)  
+**Google Scholar:** [link](https://scholar.google.com/citations?user=snDJBiEAAAAJ&hl=en)
+
+**Group GitHub:** [bioinf-mcb](https://github.com/bioinf-mcb)
+
+---
+
+## Institute
+
+The group is based at the [Małopolska Centre of Biotechnology (MCB)](https://mcb.uj.edu.pl/en), part of Jagiellonian University — one of the oldest universities in Europe, founded in 1364, located in Kraków, Poland.
+
+---
+
+## For prospective students and postdocs
+
+Please read the [Join Us](opportunities.html) page before writing. It describes what we are looking for and what kind of projects are available.

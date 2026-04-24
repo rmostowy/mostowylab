@@ -1,0 +1,110 @@
+---
+title: "Team"
+page-layout: full
+toc: false
+---
+
+We are a small group — deliberately. 
+A focused team working on a well-defined set of questions, with each person taking real intellectual ownership of their project.
+
+---
+
+## Current members
+
+```{=html}
+<div class="team-grid">
+
+  <div class="team-card">
+    <div class="name">Rafal Mostowy</div>
+    <div class="role">PI · Associate Professor</div>
+    <div class="since">MCB Jagiellonian University · since 2019</div>
+    <div class="since" style="margin-top:0.4rem;">
+      <a href="https://orcid.org/0000-0002-5763-6670" target="_blank">ORCID</a> · 
+      <a href="https://twitter.com/RafalMostowy" target="_blank">@RafalMostowy</a> ·
+      <a href="https://scholar.google.com/citations?user=snDJBiEAAAAJ" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Dr Karol Ciuchcinski</div>
+    <div class="role">Postdoctoral researcher</div>
+    <div class="since">since December 2025</div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Janusz Koszucki</div>
+    <div class="role">PhD student</div>
+    <div class="since">since January 2020</div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Wanangwa Ndovie</div>
+    <div class="role">PhD student</div>
+    <div class="since">since October 2021 · thesis submitted</div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Vyshakh Rajachandra Panicker</div>
+    <div class="role">PhD student</div>
+    <div class="since">since December 2021</div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Aleksandra Sulma</div>
+    <div class="role">Lab manager</div>
+    <div class="since">since August 2022</div>
+  </div>
+
+  <div class="team-card">
+    <div class="name">Paula Konowalska</div>
+    <div class="role">MSc student</div>
+    <div class="since">since March 2026</div>
+  </div>
+
+</div>
+```
+
+---
+
+## Alumni
+
+```{=html}
+<table class="alumni-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Period</th>
+      <th>Now</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dr Jade Leconte</td>
+      <td>Postdoc</td>
+      <td>Sep 2023 – Sep 2025</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dr Krzysztof Szczepaniak</td>
+      <td>Postdoc</td>
+      <td>Aug 2020 – Jan 2023</td>
+      <td>IIMCB, Warsaw</td>
+    </tr>
+    <tr>
+      <td>Jan Havránek</td>
+      <td>MSc student</td>
+      <td>Oct 2020 – Jun 2021</td>
+      <td>Eligo Biosciences, Paris</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+---
+
+## PI — Rafal Mostowy
+
+Rafal did his PhD at ETH Zurich (mathematical modelling of host-parasite coevolution), then held postdoctoral and fellowship positions at Imperial College London and the University of Oxford (bacterial population genomics, recombination inference). He joined Jagiellonian University in 2019 and has since shifted the group's focus toward bacteriophage genomics. He was promoted to Associate Professor in 2025.
+
+Full CV in the [IAB report (2025)](assets/mostowyreportIAB.pdf).

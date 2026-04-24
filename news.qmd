@@ -1,0 +1,11 @@
+---
+title: "News"
+page-layout: full
+toc: false
+---
+
+::: {.news-list}
+{{< include _news-items.qmd >}}
+:::
+
+*To add a news item, edit `_news-items.qmd` — this page and the homepage both update automatically.*

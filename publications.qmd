@@ -1,0 +1,107 @@
+---
+title: "Publications"
+page-layout: full
+toc: false
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+
+source("parse_bib.R")
+
+pubs <- parse_bib("publications.bib")
+
+# Convert list to data frame
+to_row <- function(e) {
+  data.frame(
+    key     = e$key     %||% "",
+    type    = e$type    %||% "",
+    title   = e$title   %||% "",
+    author  = e$author  %||% "",
+    journal = e$journal %||% "",
+    year    = suppressWarnings(as.integer(e$year %||% "0")),
+    volume  = e$volume  %||% "",
+    number  = e$number  %||% "",
+    pages   = e$pages   %||% "",
+    doi     = e$doi     %||% "",
+    stringsAsFactors = FALSE
+  )
+}
+
+df <- do.call(rbind, lapply(pubs, to_row))
+df <- df[order(-df$year, df$author), ]
+
+# Highlight PI name
+highlight_pi <- function(s) {
+  gsub(
+    "(Mostowy,\\s+Rafa[łl]?\\s*(?:J\\.?\\s*)?|Mostowy,\\s+Rafal\\s*(?:J\\.?)?)",
+    '<span class="pi">\\1</span>', s, perl = TRUE
+  )
+}
+
+# Journal badge
+journal_badge <- function(journal) {
+  jl <- tolower(journal)
+  if (grepl("nature communications", jl))
+    return('<span class="pub-badge badge-nc">Nat Comms</span> ')
+  if (grepl("msystems", jl))
+    return('<span class="pub-badge badge-ms">mSystems</span> ')
+  if (grepl("biorxiv", jl))
+    return('<span class="pub-badge badge-preprint">Preprint</span> ')
+  if (grepl("plos biol", jl))
+    return('<span class="pub-badge badge-highlight">PLOS Biology</span> ')
+  ""
+}
+
+years <- sort(unique(df$year[df$year > 0]), decreasing = TRUE)
+
+cat('<div class="pub-list">\n')
+
+for (yr in years) {
+  sub <- df[df$year == yr, ]
+  cat(sprintf(
+    '<div class="pub-year-group">\n<div class="pub-year-label">%d</div>\n', yr
+  ))
+
+  for (i in seq_len(nrow(sub))) {
+    p <- sub[i, ]
+
+    doi_link <- if (nchar(trimws(p$doi)) > 0)
+      sprintf(' <a href="https://doi.org/%s" target="_blank" class="pub-doi">doi →</a>',
+              trimws(p$doi))
+    else ""
+
+    vol_str <- ""
+    if (nchar(p$volume) > 0 && nchar(p$number) > 0)
+      vol_str <- sprintf(" %s(%s)", p$volume, p$number)
+    else if (nchar(p$volume) > 0)
+      vol_str <- sprintf(" %s", p$volume)
+
+    pages_str <- if (nchar(p$pages) > 0) sprintf(":%s", p$pages) else ""
+    badge     <- journal_badge(p$journal)
+
+    cat(sprintf(
+'<div class="pub-item">
+  <div class="pub-title">%s%s</div>
+  <div class="pub-authors">%s</div>
+  <div class="pub-journal"><em>%s</em>%s%s%s</div>
+</div>\n',
+      badge, p$title,
+      highlight_pi(p$author),
+      p$journal, vol_str, pages_str, doi_link
+    ))
+  }
+
+  cat('</div>\n')
+}
+
+cat('</div>\n')
+```
+
+---
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=snDJBiEAAAAJ&hl=en)  
+h-index: 17 (Google Scholar) · 14 (Web of Science) · 1,402 citations
