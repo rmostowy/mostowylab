@@ -110,7 +110,7 @@ knitr::asis_output(paste0(
 #| results: asis
 #| cache: false
 
-n_news <- 3  # change this number to show more or fewer items on the homepage
+n_news <- 3
 
 lines  <- readLines("_news-items.qmd")
 starts <- which(grepl("^:::", lines) & !grepl("^:::$", lines))
@@ -119,20 +119,19 @@ items  <- mapply(function(s, e) lines[s:e], starts, ends, SIMPLIFY = FALSE)
 items  <- head(items, n_news)
 
 for (item in items) {
-  # Extract date and text from the ::: block
-  content <- item[2]  # middle line has the content
-  # Convert markdown links [text](url) to HTML
-  content <- gsub("\\[([^\\]]+)\\]\\(([^)]+)\\)\\{target=\"_blank\"\\}",
-                  '<a href="\\2" target="_blank">\\1</a>', content)
-  content <- gsub("\\[([^\\]]+)\\]\\(([^)]+)\\)",
-                  '<a href="\\2">\\1</a>', content)
-  # Convert **bold**
-  content <- gsub("\\*\\*([^*]+)\\*\\*", "<strong>\\1</strong>", content)
-  # Convert *italic*
-  content <- gsub("\\*([^*]+)\\*", "<em>\\1</em>", content)
-  # Extract date span and text span
-  date <- gsub("^\\[([^\\]]+)\\]\\{.news-date\\}.*", "\\1", content)
-  text <- gsub("^\\[[^\\]]+\\]\\{.news-date
+  content <- item[2]
+  # Extract date: first [...] block
+  date <- sub("^\\[([^]]+)\\]\\{[^}]+\\}.*", "\\1", content)
+  # Extract text: second [...] block
+  text <- sub("^\\[[^]]+\\]\\{[^}]+\\}\\s*\\[(.+)\\]\\{[^}]+\\}$", "\\1", content)
+  # markdown links
+  text <- gsub("\\[([^]]+)\\]\\(([^)]+)\\)\\{[^}]+\\}", '<a href="\\2" target="_blank">\\1</a>', text)
+  text <- gsub("\\[([^]]+)\\]\\(([^)]+)\\)", '<a href="\\2">\\1</a>', text)
+  # bold and italic
+  text <- gsub("\\*\\*([^*]+)\\*\\*", "<strong>\\1</strong>", text)
+  text <- gsub("\\*([^*]+)\\*", "<em>\\1</em>", text)
+  cat(sprintf('<div class="news-row"><div class="news-date">%s</div><div class="news-text">%s</div></div>\n', date, text))
+}
 ```
 
 ```{=html}
