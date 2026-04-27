@@ -16,19 +16,18 @@ We write Python and R every day. We do not pipette.
 ## The central question
 
 
-<div class="central-question-grid">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:40px; align-items:center; max-width:860px; margin:16px 0 28px 0;">
 <div>
-
 
 How does **evolutionary innovation** work at the molecular scale in bacteriophages? 
 
 Specifically: how do horizontal gene transfer and recombination generate new receptor-binding protein (RBP) functions, and can we predict — and ultimately design — those functions?
 
-
 </div>
 <div>
 <img src="assets/lego-phage-bacteria.png"
-     alt="A LEGO bacteriophage and bacterium face each other — illustrating the co-evolutionary arms race">
+     alt="A LEGO bacteriophage and bacterium face each other — illustrating the co-evolutionary arms race"
+     style="width:100%; max-height:320px; object-fit:contain; border-radius:8px;">
 </div>
 </div>
 
@@ -41,9 +40,8 @@ Specifically: how do horizontal gene transfer and recombination generate new rec
 ## Model system: *Klebsiella pneumoniae* and its phages
 
 
-<div class="model-system-grid">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:40px; align-items:center; max-width:860px; margin:16px 0 28px 0;">
 <div>
-
 
 *Klebsiella pneumoniae* carries a thick polysaccharide capsule — a key virulence factor and antibiotic-resistance enabler. Over 150 distinct capsular (K) types exist, each with a different surface chemistry.
 
@@ -53,7 +51,9 @@ This makes the *K. pneumoniae* phage system an ideal platform for studying evolu
 
 </div>
 <div>
-<img src="assets/phage-interactions.png" alt="A bacteriophage and bacterium face each other — illustrating phage-bacteria co-evolution">
+<img src="assets/phage-interactions.png"
+     alt="Phages recognise specific capsule types via their receptor-binding proteins"
+     style="width:100%; max-height:380px; object-fit:contain;">
 </div>
 </div>
 
@@ -96,10 +96,13 @@ Using a GWAS approach on prophage genomes, we identified diverse structural doma
 
 ## Longer-term vision
 
-<figure class="vision-figure">
+<figure style="text-align:center; margin:16px 0 28px 0;">
   <img src="assets/broad-spectrum.png"
-       alt="Three phage schematics with differently coloured RBPs specific to different host types">
-  <figcaption>The same phage scaffold, different receptor-binding proteins — each tuned to a distinct bacterial host.</figcaption>
+       alt="Three phage schematics with differently coloured RBPs specific to different host types"
+       style="max-width:420px; width:100%; display:inline-block;">
+  <figcaption style="font-size:12px; color:#9CA3AF; margin-top:8px; font-style:italic;">
+    The same phage scaffold, different receptor-binding proteins — each tuned to a distinct bacterial host.
+  </figcaption>
 </figure>
 
 

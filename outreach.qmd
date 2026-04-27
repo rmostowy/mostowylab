@@ -1,0 +1,70 @@
+---
+title: "Outreach"
+page-layout: full
+toc: false
+---
+
+## Science beyond the lab
+
+<p style="font-size:14px; color:#4B5563; max-width:860px; line-height:1.75; margin-bottom:36px;">
+We believe research should speak to more than specialists. Here are some of the ways we have tried to bring microbial evolution to broader audiences.
+</p>
+
+```{=html}
+<div class="outreach-list">
+
+<div class="outreach-entry">
+<div>
+  <div class="outreach-year">2026</div>
+  <span class="outreach-pill pill-comic">Comic book</span>
+</div>
+<div>
+  <p class="outreach-title">A comic book about phages</p>
+  <p class="outreach-desc">We collaborated with a comic book artist, <a href="https://pawelpiechnik.com/pl" target="_blank">Paweł Piechnik</a>, to create an illustrated story about bacteriophages and why they are important for the society. The comic is aimed at everyone and no biology background is required. We hope you like it! Available in Polish and English.</p>
+  <div class="outreach-links">
+    <a href="media/comic-en.jpg" target="_blank">→ English version</a>
+    <a href="media/comic-pl.jpg" target="_blank">→ Polish version</a>
+  </div>
+</div>
+</div>
+
+<div class="outreach-entry">
+<div>
+  <div class="outreach-year">2024</div>
+  <span class="outreach-pill pill-film">Film</span>
+</div>
+<div>
+  <p class="outreach-title">Short film about phages</p>
+  <p class="outreach-desc">In collaboration with the Jagiellonian University Centre for Community Relations, we created a short video to illustrate what bacteriophages (phages) are and why we are studying them. Watch the film on Youtube:</p>
+  <div class="outreach-links">
+    <a href="https://www.youtube.com/watch?v=wXnxBd7kc24" target="_blank">→ English version</a>
+    <a href="https://www.youtube.com/watch?v=sMLvvUre3pk" target="_blank">→ Polish version</a>
+  </div>
+</div>
+</div>
+
+<div class="outreach-entry">
+<div>
+  <div class="outreach-year">2024</div>
+  <span class="outreach-pill pill-film">TV interview</span>
+</div>
+<div>
+  <p class="outreach-title">Rafal's interview at TVP</p>
+  <p class="outreach-desc">On 29 October, Rafal was interviewed by Telewizja Polska (TVP) for the programme Giganci Nauki. He discussed infectious diseases and vaccines as part of the episode’s science outreach segment.</p>
+</div>
+</div>
+
+
+<div class="outreach-entry">
+<div>
+  <div class="outreach-year">2021</div>
+  <span class="outreach-pill pill-lecture">Lecture</span>
+</div>
+<div>
+  <p class="outreach-title">Public lecture: How evolutionary biology helps us fight pathogens</p>
+  <p class="outreach-desc">Darwin Day public lecture at Adam Mickiewicz University, Poznań. The talk introduced evolutionary arms races between bacteria and their viruses, and how computational genomics is helping to understand — and eventually exploit — these dynamics.</p>
+</div>
+</div>
+
+</div>
+```
