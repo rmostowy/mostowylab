@@ -51,7 +51,7 @@ toc: false
 
 source("parse_bib.R")
 
-featured_keys <- c("Otwinowska2025temperate", "Ndovie2025msystems", "Smug2023natcomms")
+featured_keys <- c("Otwinowska2025depocatalog", "Otwinowska2025temperate", "Ndovie2025msystems")
 pubs <- parse_bib("publications.bib")
 names(pubs) <- sapply(pubs, function(p) p$key)
 
@@ -64,14 +64,15 @@ cards <- ""
 for (key in featured_keys) {
   p <- pubs[[key]]
   if (is.null(p)) next
-  jl    <- tolower(p$journal %||% "")
-  badge <- if (grepl("biorxiv", jl)) '<span class="pub-badge badge-forthcoming">Forthcoming</span>'
-           else if (grepl("nature communications", jl)) '<span class="pub-badge badge-nc">Nature Comms</span>'
-           else '<span class="pub-badge badge-published">Published</span>'
-  jname <- if (grepl("biorxiv", jl)) "PLOS Biology 2026" else (p$journal %||% "")
+jl    <- tolower(p$journal %||% "")
+  jname <- p$journal %||% ""
   doi   <- if (nchar(p$doi %||% "") > 0)
              sprintf(' <a class="pub-doi" href="https://doi.org/%s" target="_blank">doi &#8594;</a>', p$doi)
            else ""
+  badge <- if (grepl("biorxiv", jl))
+             '<span class="pub-badge badge-preprint">Preprint</span>'
+           else
+             sprintf('<span class="pub-badge badge-published">%s</span>', jname)
   cards <- paste0(cards,
     '<div class="pub-card">',
       '<div>',
