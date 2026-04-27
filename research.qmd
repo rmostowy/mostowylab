@@ -15,9 +15,22 @@ We write Python and R every day. We do not pipette.
 
 ## The central question
 
+
+<div class="central-question-grid">
+<div>
+
+
 How does **evolutionary innovation** work at the molecular scale in bacteriophages? 
 
 Specifically: how do horizontal gene transfer and recombination generate new receptor-binding protein (RBP) functions, and can we predict — and ultimately design — those functions?
+
+
+</div>
+<div>
+<img src="assets/lego-phage-bacteria.png"
+     alt="A LEGO bacteriophage and bacterium face each other — illustrating the co-evolutionary arms race">
+</div>
+</div>
 
 > "We are data scientists at heart — but in the scientific sense: we integrate multi-scale data (DNA, proteins, structures, metadata, populations, experimental results) to infer evolutionary processes and find novel patterns in complexity. We have intellectual ownership of our questions. We make direct predictions for experimental collaborators and interpret their results through an evolutionary lens."
 >
@@ -27,11 +40,22 @@ Specifically: how do horizontal gene transfer and recombination generate new rec
 
 ## Model system: *Klebsiella pneumoniae* and its phages
 
+
+<div class="model-system-grid">
+<div>
+
+
 *Klebsiella pneumoniae* carries a thick polysaccharide capsule — a key virulence factor and antibiotic-resistance enabler. Over 150 distinct capsular (K) types exist, each with a different surface chemistry.
 
 Bacteriophages that infect *K. pneumoniae* deploy **receptor-binding proteins (RBPs)** equipped with depolymerase activity. These enzymes are highly specific: each RBP is tuned to recognise and degrade one (or a few) capsule types. That specificity is measurable, the genetic diversity is rich, and the clinical stakes — multidrug-resistant infections, phage therapy — are real.
 
 This makes the *K. pneumoniae* phage system an ideal platform for studying evolutionary innovation computationally: specificity is measurable, recombination events are traceable, and our predictions can be tested by collaborators in the wet lab.
+
+</div>
+<div>
+<img src="assets/phage-interactions.png" alt="A bacteriophage and bacterium face each other — illustrating phage-bacteria co-evolution">
+</div>
+</div>
 
 ---
 
@@ -71,6 +95,13 @@ Using a GWAS approach on prophage genomes, we identified diverse structural doma
 ---
 
 ## Longer-term vision
+
+<figure class="vision-figure">
+  <img src="assets/broad-spectrum.png"
+       alt="Three phage schematics with differently coloured RBPs specific to different host types">
+  <figcaption>The same phage scaffold, different receptor-binding proteins — each tuned to a distinct bacterial host.</figcaption>
+</figure>
+
 
 Our 10-year goal is a **predictive, mechanistic framework for RBP design** — grounded in evolutionary principles, not opaque algorithms.
 
