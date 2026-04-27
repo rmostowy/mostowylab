@@ -10,8 +10,8 @@ toc: false
   <div class="hero-inner">
     <div class="hero-eyebrow">Microbial Genomics · MCB Jagiellonian University · Kraków</div>
     <h1 class="hero-h1"><strong>Decoding how microbes evolve</strong></h1>
-    <p class="hero-sub">A computational group at the Małopolska Centre of Biotechnology studying phage–bacteria co-evolution through bioinformatics, comparative genomics, and evolutionary modelling.</p>
-    <div class="hero-badge">No wet lab — just code, data, and ideas</div><br>
+    <p class="hero-sub">A computational group at the Małopolska Centre of Biotechnology studying phage–bacteria co-evolution through bioinformatics, comparative genomics and evolutionary modelling.</p>
+    <div class="hero-badge">No wet lab — just code, data and ideas</div><br>
     <a class="hero-cta" href="research.html">Explore our research →</a>
   </div>
 </div>
@@ -26,17 +26,17 @@ toc: false
       <div class="research-card">
         <div class="card-area">Area 01</div>
         <div class="card-title">Genetic &amp; structural diversity</div>
-        <div class="card-body">What receptor-binding protein diversity exists? We catalogue and characterise depolymerases computationally at sequence and structural scale.</div>
+        <div class="card-body">What RBP diversity exists? We catalogue and characterise RBPs computationally at sequence and structural scale.</div>
       </div>
       <div class="research-card">
         <div class="card-area">Area 02</div>
         <div class="card-title">Functional diversity &amp; breadth</div>
-        <div class="card-body">How does sequence map to function? The relationship is more complex than assumed — many RBPs are inactive, others share activity across biochemically similar polysaccharides.</div>
+        <div class="card-body">How does sequence map to function? The relationship is more complex than assumed — many RBPs are enzymes, the activity and specificity of which against polysaccharides is hard to predict.</div>
       </div>
       <div class="research-card">
         <div class="card-area">Area 03</div>
         <div class="card-title">Adaptation via innovation</div>
-        <div class="card-body">How does domain and sub-domain recombination generate new RBP functions? We trace the evolutionary paths by which phages adapt to new hosts.</div>
+        <div class="card-body">How does domain and sub-domain recombination generate new RBP functions and structures? We trace the evolutionary paths by which phages adapt to new hosts.</div>
       </div>
     </div>
     <a class="section-more" href="research.html">Full research overview →</a>
