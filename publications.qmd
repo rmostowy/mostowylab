@@ -36,10 +36,7 @@ df <- df[order(-df$year, df$author), ]
 
 # Highlight PI name
 highlight_pi <- function(s) {
-  gsub(
-    "(Mostowy,\\s+Rafa[łl]?\\s*(?:J\\.?\\s*)?|Mostowy,\\s+Rafal\\s*(?:J\\.?)?)",
-    '<span class="pi">\\1</span>', s, perl = TRUE
-  )
+  gsub("(Rafa[łl]?\\s+(?:J\\.?\\s+)?Mostowy)", '<span class="pi">\\1</span>', s, perl = TRUE)
 }
 
 # Journal badge
@@ -90,7 +87,7 @@ for (yr in years) {
   <div class="pub-journal"><em>%s</em>%s%s%s</div>
 </div>\n',
       badge, p$title,
-      highlight_pi(p$author),
+      highlight_pi(format_authors(p$author)),
       p$journal, vol_str, pages_str, doi_link
     ))
   }

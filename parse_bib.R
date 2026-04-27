@@ -2,6 +2,27 @@
 
 `%||%` <- function(a, b) if (!is.null(a) && length(a) > 0 && nchar(a[1]) > 0) a[1] else b
 
+format_authors <- function(s) {
+  # Split on " and "
+  authors <- strsplit(s, " and ")[[1]]
+  authors <- trimws(authors)
+  # Convert "Last, First" to "First Last"
+  authors <- sapply(authors, function(a) {
+    if (grepl(",", a)) {
+      parts <- strsplit(a, ",")[[1]]
+      last  <- trimws(parts[1])
+      first <- trimws(paste(parts[-1], collapse = ","))
+      # Remove spaces before dots: "P. C." -> "P.C."
+      first <- gsub("\\. ", ".", first)
+      first <- gsub("\\.$", ".", first)
+      paste(first, last)
+    } else {
+      a
+    }
+  })
+  paste(authors, collapse = ", ")
+}
+
 parse_bib <- function(path) {
   raw <- paste(readLines(path, warn = FALSE), collapse = "\n")
   

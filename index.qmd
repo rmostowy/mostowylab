@@ -56,15 +56,14 @@ pubs <- parse_bib("publications.bib")
 names(pubs) <- sapply(pubs, function(p) p$key)
 
 highlight_pi <- function(s) {
-  gsub("(Mostowy,\\s+Rafa[łl]?\\s*(?:J\\.?)?|Mostowy,\\s+Rafal\\s*(?:J\\.?)?)",
-       '<span class="pi">\\1</span>', s, perl = TRUE)
+  gsub("(Rafa[łl]?\\s+(?:J\\.?\\s+)?Mostowy)", '<span class="pi">\\1</span>', s, perl = TRUE)
 }
 
 cards <- ""
 for (key in featured_keys) {
   p <- pubs[[key]]
   if (is.null(p)) next
-jl    <- tolower(p$journal %||% "")
+  jl    <- tolower(p$journal %||% "")
   jname <- p$journal %||% ""
   doi   <- if (nchar(p$doi %||% "") > 0)
              sprintf(' <a class="pub-doi" href="https://doi.org/%s" target="_blank">doi &#8594;</a>', p$doi)
@@ -78,7 +77,7 @@ jl    <- tolower(p$journal %||% "")
       '<div>',
         '<div class="pub-badges">', badge, '</div>',
         '<div class="pub-title">', p$title %||% "", '</div>',
-        '<div class="pub-authors">', highlight_pi(p$author %||% ""), '</div>',
+		'<div class="pub-authors">', highlight_pi(format_authors(p$author %||% "")), '</div>',
         '<div class="pub-journal"><em>', jname, '</em>', doi, '</div>',
       '</div>',
       '<div class="pub-year-big">', p$year %||% "", '</div>',
