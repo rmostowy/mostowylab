@@ -51,7 +51,7 @@ toc: false
 
 source("parse_bib.R")
 
-featured_keys <- c("Otwinowska2025depocatalog", "Otwinowska2025temperate", "Ndovie2025msystems")
+featured_keys <- c("Otwinowska2025temperate2", "Otwinowska2025depocatalog", "Ndovie2025msystems")
 pubs <- parse_bib("publications.bib")
 names(pubs) <- sapply(pubs, function(p) p$key)
 
@@ -105,7 +105,20 @@ knitr::asis_output(paste0(
     <div class="news-list">
 ```
 
-{{< include _news-items.qmd >}}
+```{r news}
+#| echo: false
+#| results: asis
+#| cache: false
+
+n_news <- 3  # change this number to show more or fewer items on the homepage
+
+lines  <- readLines("_news-items.qmd")
+starts <- which(grepl("^:::", lines) & !grepl("^:::$", lines))
+ends   <- which(grepl("^:::$", lines))
+items  <- mapply(function(s, e) lines[s:e], starts, ends, SIMPLIFY = FALSE)
+items  <- head(items, n_news)
+cat(paste(sapply(items, paste, collapse = "\n"), collapse = "\n"))
+```
 
 ```{=html}
     </div>
