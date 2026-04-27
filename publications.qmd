@@ -95,4 +95,3 @@ cat('</div>\n')
 ---
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=snDJBiEAAAAJ&hl=en)  
-h-index: 17 (Google Scholar) · 14 (Web of Science) · 1,402 citations
