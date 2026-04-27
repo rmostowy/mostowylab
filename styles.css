@@ -505,6 +505,59 @@ blockquote {
 }
 .knowledge-gap p { margin-bottom: 0; font-size: 14px; }
 
+/* Central question — two-column layout */
+.central-question-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  margin: 16px 0 22px 0;
+}
+
+.central-question-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media (max-width: 640px) {
+  .central-question-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Model system */
+
+.model-system-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.model-system-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Vision section — centred figure */
+.vision-figure {
+  text-align: center;
+  margin: 16px 0 28px 0;
+}
+
+.vision-figure img {
+  max-width: 480px;
+  width: 100%;
+}
+
+.vision-figure figcaption {
+  font-size: 12px;
+  color: var(--color-text-faint);
+  margin-top: 8px;
+  font-style: italic;
+}
+
 /* Team grid */
 .team-grid {
   display: grid;
