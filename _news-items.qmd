@@ -1,5 +1,5 @@
 ::: {.news-row}
-[28 Apr 2026]{.news-date} [BLA New article! Our work on the diverse capsule-targeting enzymes of temperate phages in *Klebsiella pneumoniae* is out in *PLOS Biology*. [Read →](https://doi.org/10.1101/2025.06.25.661490){target="_blank"}]{.news-text}
+[28 Apr 2026]{.news-date} [BLE BLA New article! Our work on the diverse capsule-targeting enzymes of temperate phages in *Klebsiella pneumoniae* is out in *PLOS Biology*. [Read →](https://doi.org/10.1101/2025.06.25.661490){target="_blank"}]{.news-text}
 :::
 
 ::: {.news-row}
