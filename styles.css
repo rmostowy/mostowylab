@@ -675,6 +675,7 @@ hr { border: none !important; border-top: 0.5px solid var(--color-border) !impor
 .pill-comic   { background: #EAF3DE; color: #27500A; }
 .pill-film    { background: #E6F1FB; color: #0C447C; }
 .pill-lecture { background: #F3F4F6; color: #374151; }
+.pill-interview { background: #FEF3C7; color: #92400E; }  /* amber */
 
 .outreach-title {
   font-size: 15px;

@@ -30,6 +30,17 @@ We believe research should speak to more than specialists. Here are some of the 
 
 <div class="outreach-entry">
 <div>
+  <div class="outreach-year">2026</div>
+  <span class="outreach-pill pill-interview">Radio interview</span>
+</div>
+<div>
+  <p class="outreach-title">Rafal's appearance on "OFF Czarek"</p>
+  <p class="outreach-desc">On 25 March, Rafal was a guest on the OFF Czarek programme on Radio TOK FM. The discussion explored ancient bacteria as a source of new antibiotics and the ongoing molecular “arms race” between bacteria and viruses, highlighting their potential for future biotechnology and infection control. The full interview can be accessed as a podcast <a href="https://audycje.tokfm.pl/podcast/190273,Prawo-bakteryjnej-dzungli-i-cukrowe-tarcze-Wojna-trwa-od-milionow-lat" target="_blank">here</a>.</p>
+</div>
+</div>
+
+<div class="outreach-entry">
+<div>
   <div class="outreach-year">2024</div>
   <span class="outreach-pill pill-film">Film</span>
 </div>
@@ -46,23 +57,11 @@ We believe research should speak to more than specialists. Here are some of the 
 <div class="outreach-entry">
 <div>
   <div class="outreach-year">2024</div>
-  <span class="outreach-pill pill-film">TV interview</span>
+  <span class="outreach-pill pill-interview">TV interview</span>
 </div>
 <div>
-  <p class="outreach-title">Rafal's interview at TVP</p>
-  <p class="outreach-desc">On 29 October, Rafal was interviewed by Telewizja Polska (TVP) for the programme Giganci Nauki. He discussed infectious diseases and vaccines as part of the episode’s science outreach segment.</p>
-</div>
-</div>
-
-
-<div class="outreach-entry">
-<div>
-  <div class="outreach-year">2021</div>
-  <span class="outreach-pill pill-lecture">Lecture</span>
-</div>
-<div>
-  <p class="outreach-title">Public lecture: How evolutionary biology helps us fight pathogens</p>
-  <p class="outreach-desc">Darwin Day public lecture at Adam Mickiewicz University, Poznań. The talk introduced evolutionary arms races between bacteria and their viruses, and how computational genomics is helping to understand — and eventually exploit — these dynamics.</p>
+  <p class="outreach-title">Rafal's interview on TVP Nauka</p>
+  <p class="outreach-desc">On 25 November, Rafal was featured on Telewizja Polska (TVP Nauka) in the programme <i>Nauka jest wszędzie</i> ("Science Is Everywhere"). He discussed vaccines, their role in public health and the challenges posed by viral evolution. All episodes of TVP Nauka can be found <a href="https://vod.tvp.pl/.../nauka-jest-wszedzie-odcinki,1692329" target="_blank">under this link</a>.</p>
 </div>
 </div>
 
