@@ -42,15 +42,9 @@ highlight_pi <- function(s) {
 # Journal badge
 journal_badge <- function(journal) {
   jl <- tolower(journal)
-  if (grepl("nature communications", jl))
-    return('<span class="pub-badge badge-nc">Nat Comms</span> ')
-  if (grepl("msystems", jl))
-    return('<span class="pub-badge badge-ms">mSystems</span> ')
   if (grepl("biorxiv", jl))
     return('<span class="pub-badge badge-preprint">Preprint</span> ')
-  if (grepl("plos biol", jl))
-    return('<span class="pub-badge badge-highlight">PLOS Biology</span> ')
-  ""
+  return(sprintf('<span class="pub-badge badge-published">%s</span> ', journal))
 }
 
 years <- sort(unique(df$year[df$year > 0]), decreasing = TRUE)
