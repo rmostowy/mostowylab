@@ -117,7 +117,22 @@ starts <- which(grepl("^:::", lines) & !grepl("^:::$", lines))
 ends   <- which(grepl("^:::$", lines))
 items  <- mapply(function(s, e) lines[s:e], starts, ends, SIMPLIFY = FALSE)
 items  <- head(items, n_news)
-cat(paste(sapply(items, paste, collapse = "\n"), collapse = "\n"))
+
+for (item in items) {
+  # Extract date and text from the ::: block
+  content <- item[2]  # middle line has the content
+  # Convert markdown links [text](url) to HTML
+  content <- gsub("\\[([^\\]]+)\\]\\(([^)]+)\\)\\{target=\"_blank\"\\}",
+                  '<a href="\\2" target="_blank">\\1</a>', content)
+  content <- gsub("\\[([^\\]]+)\\]\\(([^)]+)\\)",
+                  '<a href="\\2">\\1</a>', content)
+  # Convert **bold**
+  content <- gsub("\\*\\*([^*]+)\\*\\*", "<strong>\\1</strong>", content)
+  # Convert *italic*
+  content <- gsub("\\*([^*]+)\\*", "<em>\\1</em>", content)
+  # Extract date span and text span
+  date <- gsub("^\\[([^\\]]+)\\]\\{.news-date\\}.*", "\\1", content)
+  text <- gsub("^\\[[^\\]]+\\]\\{.news-date
 ```
 
 ```{=html}
