@@ -16,6 +16,18 @@ We believe research should speak to more than specialists. Here are some of the 
 <div class="outreach-entry">
 <div>
   <div class="outreach-year">2026</div>
+  <span class="outreach-pill pill-interview">Radio interview</span>
+</div>
+<div>
+  <p class="outreach-title">Rafal's two radio interviews about phages</p>
+  <p class="outreach-desc">Rafal spoke about bacteriophages and antibiotic resistance in two national radio interviews this week — on <a href="https://jedynka.polskieradio.pl/artykul/3686138,Bakteriofagi-niczym-waleczne-roboty-Jak-dzia%C5%82aj%C4%85-dobre-wirusy" target="_blank">Polskie Radio Jedynka</a> on 12 May. and <a href="https://www.radiokrakow.pl/audycje/antybiotyki-przestaja-wystarczac-badacze-z-krakowa-pracuja-nad-alternatywa" target="_blank">Radio Kraków</a> on 13 May. Both conversations covered how phages work as precision tools against bacteria, why antibiotic resistance is an escalating clinical problem, and how the lab's computational research at MCB contributes to the search for alternatives. 
+</p>
+</div>
+</div>
+
+<div class="outreach-entry">
+<div>
+  <div class="outreach-year">2026</div>
   <span class="outreach-pill pill-comic">Comic book</span>
 </div>
 <div>
