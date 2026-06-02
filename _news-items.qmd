@@ -1,4 +1,8 @@
 ::: {.news-row}
+[22 May 2026]{.news-date} [New article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in *Nature Communications*. [Read →](https://www.nature.com/articles/s41467-026-73570-7){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
 [13 May 2026]{.news-date} [Rafal gives two radio interviews about phages, one in Polskie Radio Jedynka and one in Radio Kraków. [Check our **Outreach** page!→](https://mostowylab.com/outreach.html){target="_blank"}]{.news-text}
 :::
 

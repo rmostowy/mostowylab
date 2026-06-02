@@ -51,7 +51,7 @@ toc: false
 
 source("parse_bib.R")
 
-featured_keys <- c("Otwinowska2025temperate2", "Otwinowska2025depocatalog", "Ndovie2025msystems")
+featured_keys <- c("otwinowska2026depocatalog", "Otwinowska2025temperate2", "Ndovie2025msystems")
 pubs <- parse_bib("publications.bib")
 names(pubs) <- sapply(pubs, function(p) p$key)
 
