@@ -10,7 +10,7 @@ toc: false
   <div class="hero-inner">
     <div class="hero-eyebrow">Microbial Genomics · MCB Jagiellonian University · Kraków</div>
     <h1 class="hero-h1"><strong>Decoding how microbes evolve</strong></h1>
-    <p class="hero-sub">A computational group at the Małopolska Centre of Biotechnology studying phage–bacteria co-evolution through bioinformatics, comparative genomics and evolutionary modelling.</p>
+    <p class="hero-sub">A computational group at the Malopolska Centre of Biotechnology at Jagiellonian University in Krakow studying phage–bacteria co-evolution through bioinformatics, comparative genomics and data analysis.</p>
     <div class="hero-badge">No wet lab — just code, data and ideas</div><br>
     <a class="hero-cta" href="research.html">Explore our research →</a>
   </div>
@@ -51,7 +51,7 @@ toc: false
 
 source("parse_bib.R")
 
-featured_keys <- c("otwinowska2026depocatalog", "Otwinowska2025temperate2", "Ndovie2025msystems")
+featured_keys <- c("panicker2026rbpatlaspreprint", "otwinowska2026depocatalog", "Otwinowska2025temperate2")
 pubs <- parse_bib("publications.bib")
 names(pubs) <- sapply(pubs, function(p) p$key)
 
