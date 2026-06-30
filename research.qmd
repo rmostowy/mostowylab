@@ -4,12 +4,9 @@ page-layout: full
 toc: false
 ---
 
-We are a **computational group** — we do not have a wet lab. 
-Every project begins with code: genome sequences, protein structures, population data, and evolutionary models. 
-Our experimental validation is done in close collaboration with partner labs.
+We are a **computational group** — we do not have a wet lab. Every project begins with code and data: genome sequences, protein structures and data. The purpose is to better understand how bacteria and phages co-evolve, and to make predictions that can be verified in the lab. Our experimental validation is done in close collaboration with partner labs.
 
-Our research sits at the intersection of evolutionary biology, microbial genomics, and structural bioinformatics. 
-We write Python and R every day. We do not pipette.
+Our research sits at the intersection of evolutionary biology, microbial genomics and structural bioinformatics. We write Python and R every day. We do not pipette.
 
 ---
 
@@ -73,7 +70,7 @@ How does sequence and structure map to function? The relationship is more comple
 
 <div class="knowledge-gap">
 <div class="gap-num">Area 3 — Adaptation via innovation</div>
-How does recombination at the domain and sub-domain level generate new functions? We develop new computational frameworks (including our ECF — Evolutionary Contour Fragments — approach) to detect recombination below the classical domain level, and link these events to functional changes in RBPs.
+How does recombination at the domain and sub-domain level generate new functions? We develop new computational frameworks to detect mosaicism and recombination below the classical domain level, and link these events to functional changes in RBPs.
 </div>
 
 ---
