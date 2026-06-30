@@ -1,4 +1,8 @@
 ::: {.news-row}
+[1 June 2026]{.news-date} [New preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of *Klebsiella pneumoniae* phage receptor binding proteins! [Read →](https://www.biorxiv.org/content/10.64898/2026.05.12.724579v2){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
 [22 May 2026]{.news-date} [New article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in *Nature Communications*. [Read →](https://www.nature.com/articles/s41467-026-73570-7){target="_blank"}]{.news-text}
 :::
 
