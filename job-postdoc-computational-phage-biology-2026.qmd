@@ -1,0 +1,81 @@
+---
+title: "Postdoctoral Researcher — Computational Phage Biology"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="jobad-header">
+  <span class="jobad-pill pill-open">Open</span>
+  <span class="jobad-meta-item">Kraków, Poland</span>
+  <span class="jobad-meta-item">1 year, extendable to 2</span>
+  <span class="jobad-meta-item">Deadline: 20 July 2026</span>
+</div>
+```
+
+> This is an informal early call, shared directly and on social media, to start gathering expressions of interest now. A formal university posting will follow in due course — there's no need to wait for it. Get in touch any time.
+
+## What we do
+
+We are a computational group studying how bacteriophages evolve to outsmart bacteria — no wet lab, just code, data, and ideas. We use comparative genomics, structural modelling, and evolutionary analysis to understand how recombination and horizontal gene transfer generate new protein functions, focusing on receptor-binding proteins (RBPs): the molecular keys phages use to recognise and infect specific bacterial strains.
+
+## The project
+
+Phages frequently encode enzymes that recognise and degrade bacterial surface glycans — capsules and lipopolysaccharides — and these interactions shape host range, virulence, and long-term co-evolution. We're particularly interested in prophages hidden inside bacterial genomes: an underexplored reservoir of receptor-binding diversity. Using *Klebsiella pneumoniae* (~150+ distinct capsule types) as a model system, this project asks how genomic diversity and structural modularity in depolymerases relate to glycan specificity, and how recombination at the domain — and sub-domain — level generates new functions.
+
+The project builds on a strong and active publication record — see [mostowylab.com](https://mostowylab.com/publications.html) for our current papers and preprints — and is entering a new phase focused on understanding how structural modules encode specificity and evolve.
+
+## What you'd be doing
+
+- Large-scale comparative genomics of bacterial and prophage genomes
+- Bioinformatic identification and classification of glycan-degrading enzymes
+- Evolutionary analysis of modular protein architectures
+- Structure-informed approaches, including AlphaFold-based modelling
+- Statistical and population-level analyses linking enzyme diversity to bacterial surface types
+
+## Why this collaboration matters
+
+This is a computational role, but your predictions won't sit in a folder. We work closely with Prof. Zuzanna Drulis-Kawa's group at the University of Wrocław, a leading international centre in phage and depolymerase biology — so the specificities you predict get tested experimentally, and the results feed back into the model. You'll have a real say in what gets tested and how the findings are interpreted, without needing to run the experiments yourself.
+
+## The bigger picture
+
+Our long-term goal is a predictive, mechanistic framework for receptor-binding protein design — grounded in evolutionary principles rather than opaque machine learning. Over the next decade we aim to move from cataloguing diversity, to testing hypotheses about the enzyme families involved, to eventually engineering RBPs against clinical strains. This project sits at the early-to-mid part of that roadmap, with real room to shape its direction.
+
+## Who thrives here
+
+This is a small, focused group — that's a feature, not a limitation. You'll work directly with the PI, have genuine intellectual ownership of your questions, and be part of an international network (collaborators in the UK, France, and Poland).
+
+## What we're looking for
+
+We're flexible on the specifics — we're primarily looking for a strong computational scientist with real curiosity about biology, and a willingness to learn. If most of the list below describes you, and the rest sounds exciting rather than daunting, we'd like to hear from you.
+
+**You'll likely have:**
+
+- A PhD in bioinformatics, computational biology, genomics, evolutionary biology, or a related quantitative field
+- Experience analysing genomic or protein sequence data
+- Proficiency in Python, R, or a similar language, ideally with some experience in reproducible workflows (e.g. Git)
+- A track record of research output — peer-reviewed papers and/or preprints
+- Curiosity about microbial genomics, phage biology, or host–microbe interactions
+- The ability to work independently and contribute ideas, not just execute a plan
+
+**Nice to have, not required:**
+
+- Experience with evolutionary, phylogenetic, or population-genetic analysis
+- Interest in protein evolution, structural bioinformatics, or AlphaFold-based approaches
+- Prior experience in phage biology specifically — genuinely not a prerequisite
+
+## Practical information
+
+- **Location:** Kraków, Poland (Małopolska Centre of Biotechnology)
+- **Duration:** Initially 1 year, with the possibility of extension up to two years
+- **Salary:** In line with Polish national science funding scales for postdoctoral researchers (NCN)
+- **Start date:** To confirm — flexible, as soon as possible
+- **Application deadline:** 20 July 2026
+
+To express interest, please send a CV and a short note on your research interests and motivation. Informal enquiries are very welcome — if you're not sure whether this is the right fit, just ask.
+
+<a class="btn-lab" href="mailto:rafal.mostowy@uj.edu.pl?subject=Postdoc%20application%20-%20Computational%20Phage%20Biology">Apply by email →</a>
+
+---
+
+*This is a direct, informal call shared ahead of the official university posting, which will follow. Strong candidates identified through this call will be supported through the formal application process once it opens.*

@@ -1,0 +1,158 @@
+---
+pagetitle: "Microbial Genomics — Mostowy Lab"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- HERO -->
+<div class="hero-section">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Microbial Genomics · MCB Jagiellonian University · Kraków</div>
+    <h1 class="hero-h1"><strong>Decoding how microbes evolve</strong></h1>
+    <p class="hero-sub">A computational group at the Malopolska Centre of Biotechnology at Jagiellonian University in Krakow studying phage–bacteria co-evolution through bioinformatics, comparative genomics and data analysis.</p>
+    <div class="hero-badge">No wet lab — just code, data and ideas</div><br>
+    <a class="hero-cta" href="research.html">Explore our research →</a>
+  </div>
+</div>
+
+<!-- RESEARCH AREAS -->
+<div class="section-wrap section-wrap--surface">
+  <div class="section-inner">
+    <div class="eyebrow">Research</div>
+    <h2 class="section-title">Three open questions</h2>
+    <p class="section-sub">We study receptor-binding proteins (RBPs) in <em>Klebsiella pneumoniae</em> phages — the proteins that determine which bacteria a phage can infect, and the primary drivers of host-range evolution.</p>
+    <div class="cards-grid">
+      <div class="research-card">
+        <div class="card-area">Area 1</div>
+        <div class="card-title">Genetic &amp; structural diversity</div>
+        <div class="card-body">What RBP diversity exists? We catalogue and characterise RBPs computationally at sequence and structural scale.</div>
+      </div>
+      <div class="research-card">
+        <div class="card-area">Area 2</div>
+        <div class="card-title">Functional diversity &amp; breadth</div>
+        <div class="card-body">How does sequence map to function? The relationship is more complex than assumed — many RBPs are enzymes, the activity and specificity of which against polysaccharides is hard to predict.</div>
+      </div>
+      <div class="research-card">
+        <div class="card-area">Area 3</div>
+        <div class="card-title">Adaptation via innovation</div>
+        <div class="card-body">How does domain and sub-domain recombination generate new RBP functions and structures? We trace the evolutionary paths by which phages adapt to new hosts.</div>
+      </div>
+    </div>
+    <a class="section-more" href="research.html">Full research overview →</a>
+  </div>
+</div>
+```
+
+```{r pubs}
+#| echo: false
+#| results: asis
+#| cache: false
+
+source("parse_bib.R")
+
+featured_keys <- c("panicker2026rbpatlaspreprint", "otwinowska2026depocatalog", "Otwinowska2025temperate2")
+pubs <- parse_bib("publications.bib")
+names(pubs) <- sapply(pubs, function(p) p$key)
+
+highlight_pi <- function(s) {
+  gsub("(Rafa[łl]?\\s+(?:J\\.?\\s+)?Mostowy)", '<span class="pi">\\1</span>', s, perl = TRUE)
+}
+
+cards <- ""
+for (key in featured_keys) {
+  p <- pubs[[key]]
+  if (is.null(p)) next
+  jl    <- tolower(p$journal %||% "")
+  jname <- p$journal %||% ""
+  doi   <- if (nchar(p$doi %||% "") > 0)
+             sprintf(' <a class="pub-doi" href="https://doi.org/%s" target="_blank">doi &#8594;</a>', p$doi)
+           else ""
+  badge <- if (grepl("biorxiv", jl))
+             '<span class="pub-badge badge-preprint">Preprint</span>'
+           else
+             sprintf('<span class="pub-badge badge-published">%s</span>', jname)
+  cards <- paste0(cards,
+    '<div class="pub-card">',
+      '<div>',
+        '<div class="pub-badges">', badge, '</div>',
+        '<div class="pub-title">', p$title %||% "", '</div>',
+		'<div class="pub-authors">', highlight_pi(format_authors(p$author %||% "")), '</div>',
+        '<div class="pub-journal"><em>', jname, '</em>', doi, '</div>',
+      '</div>',
+      '<div class="pub-year-big">', p$year %||% "", '</div>',
+    '</div>\n'
+  )
+}
+
+knitr::asis_output(paste0(
+  '<div class="section-wrap section-wrap--white">',
+  '<div class="section-inner">',
+  '<div class="eyebrow">Publications</div>',
+  '<h2 class="section-title">Selected recent papers</h2>',
+  '<div class="pub-list">', cards, '</div>',
+  '<a class="section-more" href="publications.html">All publications &#8594;</a>',
+  '</div></div>'
+))
+```
+
+```{=html}
+<!-- NEWS -->
+<div class="section-wrap section-wrap--surface">
+  <div class="section-inner">
+    <div class="eyebrow">News</div>
+    <h2 class="section-title">Latest updates</h2>
+    <div class="news-list">
+```
+
+```{r news}
+#| echo: false
+#| results: asis
+#| cache: false
+
+n_news <- 3
+
+lines  <- readLines("_news-items.qmd")
+starts <- which(grepl("^:::", lines) & !grepl("^:::$", lines))
+ends   <- which(grepl("^:::$", lines))
+items  <- mapply(function(s, e) lines[s:e], starts, ends, SIMPLIFY = FALSE)
+items  <- head(items, n_news)
+
+for (item in items) {
+  content <- item[2]
+  # Extract date: first [...] block
+  date <- sub("^\\[([^]]+)\\]\\{[^}]+\\}.*", "\\1", content)
+  # Extract text: second [...] block
+  text <- sub("^\\[[^]]+\\]\\{[^}]+\\}\\s*\\[(.+)\\]\\{[^}]+\\}$", "\\1", content)
+  # markdown links
+  text <- gsub("\\[([^]]+)\\]\\(([^)]+)\\)\\{[^}]+\\}", '<a href="\\2" target="_blank">\\1</a>', text)
+  text <- gsub("\\[([^]]+)\\]\\(([^)]+)\\)", '<a href="\\2">\\1</a>', text)
+  # bold and italic
+  text <- gsub("\\*\\*([^*]+)\\*\\*", "<strong>\\1</strong>", text)
+  text <- gsub("\\*([^*]+)\\*", "<em>\\1</em>", text)
+  cat(sprintf('<div class="news-row"><div class="news-date">%s</div><div class="news-text">%s</div></div>\n', date, text))
+}
+```
+
+```{=html}
+    </div>
+    <a class="section-more" href="news.html">All news →</a>
+  </div>
+</div>
+
+<!-- FUNDING -->
+<div class="section-wrap section-wrap--white">
+  <div class="section-inner">
+    <div class="eyebrow">Funding</div>
+    <h2 class="section-title">Our supporters</h2>
+    <div class="funder-row">
+      <img src="assets/ncn_logo.png" alt="National Science Centre Poland (NCN)">
+      <img src="assets/embo_logo.png" alt="EMBO">
+    </div>
+    <div class="funder-past-label">Past support</div>
+    <div class="funder-row funder-row--past">
+      <img src="assets/nawa_logo.png" alt="NAWA">
+    </div>
+  </div>
+</div>
+```
