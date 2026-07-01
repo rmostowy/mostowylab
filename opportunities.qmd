@@ -25,8 +25,8 @@ toc: false
   how to express interest in PhD, postdoc, or MSc opportunities generally.</p>
 -->
 <div class="opening-block">
-  <a class="btn-lab" href="job-postdoc-computational-phage-biology-2026.html">Postdoctoral Researcher — Computational Phage Biology →</a>
-  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 20 July 2026</div>
+  <a class="btn-lab" href="job-postdoc-prophage-evolution-2026.html">Postdoctoral Researcher — Computational evolution of prophages →</a>
+  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 July 2026</div>
 </div>
 ```
 

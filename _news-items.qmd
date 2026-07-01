@@ -1,5 +1,5 @@
 ::: {.news-row}
-[30 June 2026]{.news-date} [**We're hiring!** New postdoctoral position in computational phage biology — applications open now, deadline 20 July. [See the ad →](https://mostowylab.com/job-postdoc-computational-phage-biology-2026.html){target="_blank"}]{.news-text}
+[1 July 2026]{.news-date} [**We're hiring!** New postdoctoral position in computational phage biology — applications open now, deadline 21st July. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
 :::
 
 ::: {.news-row}
