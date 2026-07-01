@@ -1,87 +1,171 @@
 [
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Join Us",
-    "section": "",
-    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\nThis is a computational group. We do not have a wet lab. If you join us, you will write code every day — Python, R, Bash, and whatever else the problem needs. You will not pipette.\nThis is worth stating clearly because it shapes who will thrive here. If you want to learn bioinformatics, evolutionary genomics, and structural biology as the primary scientific activity — not as a support tool for experiments — this is the right place."
-  },
-  {
-    "objectID": "opportunities.html#what-we-look-for",
-    "href": "opportunities.html#what-we-look-for",
-    "title": "Join Us",
-    "section": "What we look for",
-    "text": "What we look for\nIn every role, we care most about intellectual independence and rigour. We want people who:\n\nare genuinely curious about evolutionary biology and want to understand mechanism, not just find patterns\nwrite clean, reproducible code and take data integrity seriously\ncan read a paper critically and identify what it does and does not show\nare comfortable with uncertainty and with projects that take a long time to mature\n\nPrior experience with microbiology or phages is not required. Strong computational skills and an evolutionary mindset matter more."
-  },
-  {
-    "objectID": "opportunities.html#phd-positions",
-    "href": "opportunities.html#phd-positions",
-    "title": "Join Us",
-    "section": "PhD positions",
-    "text": "PhD positions\nWe recruit PhD students through the doctoral programme at the Małopolska Centre of Biotechnology (MCB), Jagiellonian University.\nPhD projects in the group focus on:\n\nComputational characterisation and prediction of phage receptor-binding protein function\nEvolutionary genomics of Klebsiella phages: recombination, mosaicism, and host range\nDevelopment of bioinformatics pipelines for viral genome analysis\n\nTo enquire about PhD opportunities, send an email with your CV, a brief description of your computational background, and a paragraph explaining why you are interested in our work specifically. Vague expressions of interest are unlikely to receive a response."
-  },
-  {
-    "objectID": "opportunities.html#postdoctoral-positions",
-    "href": "opportunities.html#postdoctoral-positions",
-    "title": "Join Us",
-    "section": "Postdoctoral positions",
-    "text": "Postdoctoral positions\nWe currently have no open advertised postdoc positions. However, we are always interested in hearing from strong candidates who want to apply for independent fellowship funding to work in the group.\nRelevant schemes include:\n\nMarie Skłodowska-Curie Postdoctoral Fellowships (European Commission)\nNCN Polonez Bis (National Science Centre Poland)\nHFSP Long-Term Fellowships (Human Frontier Science Program)\nEMBO Postdoctoral Fellowships\n\nIf you are interested in applying for one of these with us as host, get in touch well before any deadline — fellowship applications require real preparation time and we will only support applications we believe have a genuine chance of success."
-  },
-  {
-    "objectID": "opportunities.html#msc-students",
-    "href": "opportunities.html#msc-students",
-    "title": "Join Us",
-    "section": "MSc students",
-    "text": "MSc students\nWe take MSc students through Jagiellonian University. If you are enrolled at JU (or another Kraków university) and are looking for a computational thesis project in microbial genomics or phage biology, send a short email introducing yourself."
-  },
-  {
-    "objectID": "opportunities.html#contact",
-    "href": "opportunities.html#contact",
-    "title": "Join Us",
-    "section": "Contact",
-    "text": "Contact\nrafal.mostowy@uj.edu.pl\nMałopolska Centre of Biotechnology, Jagiellonian University, Kraków"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n\n2026\n\n\n\nPLOS Biology Capsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymes\n\n\nAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy\n\n\nPLOS Biology:online doi →\n\n\n\n\nNature Communications DepoCatalog: mapping diversity of 129 recombinantly produced Klebsiella phage depolymerases\n\n\nAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grazyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh R. Panicker, Sara Jablonska, Mathilde Hulsens, Jana Stender, Maha Niazi, Sabrina Green, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Jens A. Hammerl, Rob Lavigne, Yves Briers, Rafal J. Mostowy, Zuzanna Drulis-Kawa\n\n\nNature Communications:online doi →\n\n\n\n\nPreprint Structural modularity of receptor-binding proteins underlies host-range strategy diversification in Klebsiella pneumoniae phages\n\n\nVyshakh R. Panicker, Bogna J. Smug, Victor Klein-Sousa, Mark C. Enright, Nicholas M.I. Taylor, Zuzanna Drulis-Kawa, Rafał J. Mostowy\n\n\nbioRxiv doi →\n\n\n\n\n\n2025\n\n\n\nmSystems Exploration of the genetic landscape of bacterial dsDNA viruses reveals an ANI gap amid extensive mosaicism\n\n\nWanangwa Ndovie, Jan Havránek, Jade Leconte, Janusz Koszucki, Leonid Chindelevitch, Evelien M. Adriaenssens, Rafal J. Mostowy\n\n\nmSystems:e0166124 doi →\n\n\n\n\nPreprint Capsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymes\n\n\nAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy\n\n\nbioRxiv:2025.06.25.661490 doi →\n\n\n\n\nPreprint DepoCatalog: mapping the diversity of 105 recombinant Klebsiella phage depolymerases across sequence, structure, and substrate specificity\n\n\nAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grażyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh Panicker, Sara Jabłońska, Mathilde Hulsens, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Yves Briers, Rafal Mostowy, Zuzanna Drulis-Kawa\n\n\nbioRxiv:2025.09.09.675204 doi →\n\n\n\n\n\n2023\n\n\n\nNature Communications Ongoing shuffling of protein fragments diversifies core viral functions linked to interactions with bacterial hosts\n\n\nBogna J. Smug, Krzysztof Szczepaniak, Eduardo P.C. Rocha, Stanislaw Dunin-Horkawicz, Rafał J. Mostowy\n\n\nNature Communications 14(1):7460 doi →\n\n\n\n\n\n2022\n\n\n\nBMC Bioinformatics vCOMBAT: a novel tool to create and visualize a computational model of bacterial antibiotic target-binding\n\n\nVi Ngoc-Nha Tran, Alireza Shams, Sinan Ascioglu, Antal Martinecz, Jingyi Liang, Fabrizio Clarelli, Rafal Mostowy, Ted Cohen, Pia Abel zur Wiesch\n\n\nBMC Bioinformatics 23(1):22 doi →\n\n\n\n\n\n2020\n\n\n\nThe ISME Journal Diversity and evolution of surface polysaccharide synthesis loci in Enterobacteriales\n\n\nKathryn E. Holt, Florent Lassalle, Kelly L. Wyres, Ryan Wick, Rafał J. Mostowy\n\n\nThe ISME Journal 14:740–758 doi →\n\n\n\n\nScience Advances Horizontal gene transfer rate is not the primary determinant of observed antibiotic resistance frequencies in Streptococcus pneumoniae\n\n\nSonja Lehtinen, Claire Chewapreecha, John Lees, William P. Hanage, Marc Lipsitch, Nicholas J. Croucher, Stephen D. Bentley, Paul Turner, Christophe Fraser, Rafał J. Mostowy\n\n\nScience Advances 6(21):eaaz6137 doi →\n\n\n\n\n\n2019\n\n\n\nPLoS Pathogens Shigella sonnei infection of zebrafish reveals that O-antigen mediates neutrophil tolerance and dysentery incidence\n\n\nVincenzo Torraca, Myrsini Kaforou, Jayne Watson, Gina M. Duggan, Hazel Guerrero-Gutierrez, Sina Krokowski, Michael Hollinshead, Thomas B. Clarke, Rafal J. Mostowy, Gillian S. Tomlinson, Vanessa Sancho-Shimizu, Abigail Clements, Serge Mostowy\n\n\nPLoS Pathogens 15(12):e1008006 doi →\n\n\n\n\n\n2018\n\n\n\nTrends in Microbiology Diversity-generating machines: genetics of bacterial sugar-coating\n\n\nRafał J. Mostowy, Kathryn E. Holt\n\n\nTrends in Microbiology 26(12):1008–1021 doi →\n\n\n\n\n\n2017\n\n\n\nmBio Evolution of the Staphylococcus argenteus ST2250 clone in northeastern Thailand is linked with the acquisition of livestock-associated staphylococcal genes\n\n\nDanesh Moradigaravand, Dorota Jamrozy, Rafal Mostowy, Annaliesa Anderson, Emma K. Nickerson, Janjira Thaipadungpanit, Vanaporn Wuthiekanun, Direk Limmathurotsakul, Sarunporn Tandhavanant, Chanthiwa Wikraiphat, Gumphol Wongsuvan, Nittaya Teerawattanasook, Yaowaruk Jutrakul, Nuttiya Srisurat, Prajuab Chaimanee, T.Eoin West, Beth Blane, Julian Parkhill, Narisara Chantratita, Sharon J. Peacock\n\n\nmBio 8(4):e00802–17 doi →\n\n\n\n\nMolecular Biology and Evolution Efficient inference of recent and ancestral recombination within bacterial populations\n\n\nRafal Mostowy, Nicholas J. Croucher, Cheryl P. Andam, Jukka Corander, William P. Hanage, Pekka Marttinen\n\n\nMolecular Biology and Evolution 34(5):1167–1182 doi →\n\n\n\n\nMolecular Biology and Evolution Pneumococcal capsule synthesis locus cps as evolutionary hotspot with potential to generate novel serotypes by recombination\n\n\nRafał J. Mostowy, Nicholas J. Croucher, Nicola De Maio, Claire Chewapreecha, Susannah J. Salter, Paul Turner, David M. Aanensen, Stephen D. Bentley, Xavier Didelot, Christophe Fraser\n\n\nMolecular Biology and Evolution 34(10):2537–2554 doi →\n\n\n\n\n\n2016\n\n\n\nPLoS Biology Horizontal DNA transfer mechanisms of bacteria as weapons of intragenomic conflict\n\n\nNicholas J. Croucher, Rafal Mostowy, Christopher Wymant, Paul Turner, Stephen D. Bentley, Christophe Fraser\n\n\nPLoS Biology 14(3):e1002394 doi →\n\n\n\n\n\n2014\n\n\n\nPLoS Genetics Heterogeneity in the frequency and characteristics of homologous recombination in pneumococcal evolution\n\n\nRafal Mostowy, Nicholas J. Croucher, William P. Hanage, Simon R. Harris, Stephen Bentley, Christophe Fraser\n\n\nPLoS Genetics 10(5):e1004300 doi →\n\n\n\n\n\n2012\n\n\n\nPLoS Computational Biology Evolution of stress response in the face of unreliable environmental signals\n\n\nMarkus Arnoldini, Rafal Mostowy, Sebastian Bonhoeffer, Martin Ackermann\n\n\nPLoS Computational Biology 8(8):e1002627 doi →\n\n\n\n\nJournal of Evolutionary Biology Host-parasite coevolution induces selection for condition-dependent sex\n\n\nR. Mostowy, J. Engelstädter\n\n\nJournal of Evolutionary Biology 25(10):2033–2046 doi →\n\n\n\n\nBMC Evolutionary Biology Non-genetic inheritance and the patterns of antagonistic coevolution\n\n\nRafal Mostowy, Jan Engelstädter, Marcel Salathé\n\n\nBMC Evolutionary Biology 12(1):93 doi →\n\n\n\n\nPLoS Computational Biology Estimating the fitness cost of escape from HLA presentation in HIV-1 protease and reverse transcriptase\n\n\nRafal Mostowy, Roger D. Kouyos, Ilka Hoof, Trevor Hinkley, Mojgan Haddad, Jeannette M. Whitcomb, Christos J. Petropoulos, Can Kesmir, Sebastian Bonhoeffer\n\n\nPLoS Computational Biology 8(5):e1002525 doi →\n\n\n\n\n\n2011\n\n\n\nProceedings of the Royal Society B: Biological Sciences The impact of environmental change on host-parasite coevolutionary dynamics\n\n\nRafal Mostowy, Jan Engelstädter\n\n\nProceedings of the Royal Society B: Biological Sciences 278(1716):2283–2292 doi →\n\n\n\n\nPLoS ONE The role of recombination for the coevolutionary dynamics of HIV and the immune response\n\n\nRafal Mostowy, Roger D. Kouyos, David Fouchet, Sebastian Bonhoeffer\n\n\nPLoS ONE 6(2):e16052 doi →\n\n\n\n\n\n2010\n\n\n\nEvolution On the evolution of sexual reproduction in hosts coevolving with multiple parasites\n\n\nRafal Mostowy, Marcel Salathé, Roger D. Kouyos, Sebastian Bonhoeffer\n\n\nEvolution 64(6):1644–1656 doi →\n\n\n\n\n\nFull list on Google Scholar"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n1 June 2026 New preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of Klebsiella pneumoniae phage receptor binding proteins! Read →\n\n\n22 May 2026 New article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in Nature Communications. Read →\n\n\n13 May 2026 Rafal gives two radio interviews about phages, one in Polskie Radio Jedynka and one in Radio Kraków. Check our Outreach page!→\n\n\n28 Apr 2026 New article! Our work on the diverse capsule-targeting enzymes of temperate phages in Klebsiella pneumoniae is out in PLOS Biology. Read →\n\n\n27 Apr 2026 We collaborated with a comic book artist to create a comic book about phages. Check our Outreach page!→\n\n\n18 Mar 2026 Paula Konowalska joins Microbial Genomics as a MSc student. Her project will focus on using AI to predict polysaccharide-specific enzymes, in collaboration with the Group of Machine Learning Research at UJ (gmum.net).\n\n\n29 Jan 2026 Wanangwa Ndovie successfully submits his PhD thesis. Congratulations!\n\n\n22 Jan 2026 Rafal gives a talk at the symposium “Bacteriophages in Science and in Practice” at IBB PAS in Warsaw.\n\n\n1 Dec 2025 Dr Karol Ciuchciński joins Microbial Genomics as a postdoc. His project will focus on analysing ONT-sequenced genomes of K. pneumoniae from an Australian clinical collection and studying their prophages.\n\n\n19 Nov 2025 Rafal visits Nicholas M. I. Taylor at the Novo Nordisk Foundation Centre for Protein Research at the University of Copenhagen.\n\n\n10 Sep 2025 Rafal gives a talk at the Phage Protein Meeting 2025 in Ghent, Belgium.\n\n\n9 Sep 2025 Our collaborative work on the Klebsiella depolymerase catalogue with Zuzanna Drulis-Kawa’s lab is out as a preprint. See the Publications page."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "job-postdoc-prophage-evolution-2026.html",
+    "href": "job-postdoc-prophage-evolution-2026.html",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
     "section": "",
     "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact"
   },
   {
-    "objectID": "contact.html#microbial-genomics-group",
-    "href": "contact.html#microbial-genomics-group",
-    "title": "Contact",
-    "section": "Microbial Genomics Group",
-    "text": "Microbial Genomics Group\nRafal Mostowy\nAssociate Professor\nMałopolska Centre of Biotechnology\nJagiellonian University\nul. Gronostajowa 7A\n30-387 Kraków, Poland\nEmail: rafal.mostowy@uj.edu.pl\nTwitter/X: @RafalMostowy\nORCID: 0000-0002-5763-6670\nGoogle Scholar: link\nGroup GitHub: bioinf-mcb"
+    "objectID": "job-postdoc-prophage-evolution-2026.html#about-us",
+    "href": "job-postdoc-prophage-evolution-2026.html#about-us",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "About us",
+    "text": "About us\nAt the Mostowy Lab, we want to understand why phage receptor-binding proteins are so extraordinarily diverse — and what that diversity tells us about how phages and bacteria shape each other’s evolution. Combining large-scale comparative genomics, phylogenetics and structural bioinformatics, we trace how these proteins innovate, diversify and specialise as phages adapt to the shifting landscape of bacterial surface polysaccharides, and how bacterial populations respond in turn. Our model system is Klebsiella pneumoniae, whose extraordinary capsular diversity makes it one of the richest arenas available for studying the evolution of phage host range."
   },
   {
-    "objectID": "contact.html#institute",
-    "href": "contact.html#institute",
-    "title": "Contact",
-    "section": "Institute",
-    "text": "Institute\nThe group is based at the Małopolska Centre of Biotechnology (MCB), part of Jagiellonian University — one of the oldest universities in Europe, founded in 1364, located in Kraków, Poland."
+    "objectID": "job-postdoc-prophage-evolution-2026.html#the-project",
+    "href": "job-postdoc-prophage-evolution-2026.html#the-project",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "The project",
+    "text": "The project\nThis position is about the evolutionary genomics of prophages and the receptor-binding proteins (RBPs) that determine their host range. We recently discovered that Klebsiella prophages carry a far broader repertoire of capsule-interacting enzymes than previously appreciated: alongside the classical depolymerases that degrade the capsule, many carry SGNH-domain esterases that instead modify it, by removing — and possibly, via associated acetyltransferases, restoring — acetyl groups. Some prophages rely on one strategy, some on the other, and some appear to carry both, raising questions we haven’t yet been able to ask: does carrying both a depolymerase and a deacetylase change a phage’s effective host range, and does that depend on the K-type it targets or the specificity of the individual enzymes? How do these different host-recognition strategies gain and lose out over evolutionary time, and what happens to a prophage’s enzyme repertoire when its host’s capsule type changes?\nThe postdoc will use our expanding collection of complete, high-quality Klebsiella genomes to address questions like these — situating the acetylation/deacetylation axis within the broader picture of prophage host-range evolution and RBP diversification, rather than treating it in isolation."
   },
   {
-    "objectID": "contact.html#for-prospective-students-and-postdocs",
-    "href": "contact.html#for-prospective-students-and-postdocs",
-    "title": "Contact",
-    "section": "For prospective students and postdocs",
-    "text": "For prospective students and postdocs\nPlease read the Join Us page before writing. It describes what we are looking for and what kind of projects are available."
+    "objectID": "job-postdoc-prophage-evolution-2026.html#collaboration",
+    "href": "job-postdoc-prophage-evolution-2026.html#collaboration",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "Collaboration",
+    "text": "Collaboration\nThe lab works closely with experimental collaborators, including the phage biology group of Zuzanna Drulis-Kawa (University of Wroclaw), who test computational predictions experimentally. This is primarily a computational position, though there may be opportunities to engage with ongoing experimental prophage work in Wrocław for those interested."
+  },
+  {
+    "objectID": "job-postdoc-prophage-evolution-2026.html#who-were-looking-for",
+    "href": "job-postdoc-prophage-evolution-2026.html#who-were-looking-for",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "Who we’re looking for",
+    "text": "Who we’re looking for\n\nA background in bioinformatics, computational biology, or evolutionary/microbial genomics (PhD in hand or near completion)\nExperience with comparative genomics and/or phylogenetics; comfort working with large bacterial genome datasets\nSolid programming skills (Python and/or R)\nGenuine curiosity about microbial evolution and host-pathogen interactions"
+  },
+  {
+    "objectID": "job-postdoc-prophage-evolution-2026.html#what-we-offer",
+    "href": "job-postdoc-prophage-evolution-2026.html#what-we-offer",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "What we offer",
+    "text": "What we offer\n\nAn initial 1-year, fully funded postdoctoral position at MCB, Jagiellonian University in Krakow, funded via NCN SONATA BIS — with a strong possibility of extension to 2 years\nSalary: to be confirmed pending final NCN confirmation; happy to discuss directly\nA collaborative environment linking computational genomics (Kraków) with experimental phage biology (Wrocław)\nAccess to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation)"
+  },
+  {
+    "objectID": "job-postdoc-prophage-evolution-2026.html#recent-relevant-publications",
+    "href": "job-postdoc-prophage-evolution-2026.html#recent-relevant-publications",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "Recent relevant publications",
+    "text": "Recent relevant publications\n\nOtwinowska* A, Koszucki* J, Panicker VR, et al., Drulis-Kawa Z & Mostowy RJ (2026). Capsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymes. PLOS Biology. https://doi.org/10.1371/journal.pbio.3003716\nOtwinowska* A, Olejniczak* S, Latka A, et al., Mostowy RJ & Drulis-Kawa Z (2026). DepoCatalog: mapping diversity of 129 recombinantly produced Klebsiella phage depolymerases. Nature Communications. https://doi.org/10.1038/s41467-026-73570-7\nPanicker VR, Smug BJ, Klein-Sousa V, Enright MC, Taylor NMI, Drulis-Kawa Z & Mostowy RJ (2026). Structural modularity of receptor-binding proteins underlies host-range strategy diversification in Klebsiella pneumoniae phages. bioRxiv 2026.05.12.724579. https://doi.org/10.64898/2026.05.12.724579"
+  },
+  {
+    "objectID": "job-postdoc-prophage-evolution-2026.html#get-in-touch",
+    "href": "job-postdoc-prophage-evolution-2026.html#get-in-touch",
+    "title": "Evolutionary Genomics of Phage–Bacteria Co-evolution in Klebsiella pneumoniae",
+    "section": "Get in touch",
+    "text": "Get in touch\nThis is a preliminary, informal call, not yet the official position advertisement — a full formal ad, with confirmed salary and application procedure, will follow once NCN funding details are settled. If you’re interested, please contact Rafal Mostowy directly at rafal.mostowy@uj.edu.pl, ideally by 21 July 2026.\nApply by email →"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact"
+  },
+  {
+    "objectID": "outreach.html#science-beyond-the-lab",
+    "href": "outreach.html#science-beyond-the-lab",
+    "title": "Outreach",
+    "section": "Science beyond the lab",
+    "text": "Science beyond the lab\n\nWe believe research should speak to more than specialists. Here are some of the ways we have tried to bring microbial evolution to broader audiences.\n\n\n\n\n\n  2026\n  Radio interview\n\n\n  Rafal's two radio interviews about phages\n  Rafal spoke about bacteriophages and antibiotic resistance in two national radio interviews this week — on Polskie Radio Jedynka on 12 May. and Radio Kraków on 13 May. Both conversations covered how phages work as precision tools against bacteria, why antibiotic resistance is an escalating clinical problem, and how the lab's computational research at MCB contributes to the search for alternatives. \n\n\n\n\n\n\n  2026\n  Comic book\n\n\n  A comic book about phages\n  We collaborated with a comic book artist, Paweł Piechnik, to create an illustrated story about bacteriophages and why they are important for the society. The comic is aimed at everyone and no biology background is required. We hope you like it! Available in Polish and English.\n  \n    → English version\n    → Polish version\n  \n\n\n\n\n\n  2026\n  Radio interview\n\n\n  Rafal's appearance on \"OFF Czarek\"\n  On 25 March, Rafal was a guest on the OFF Czarek programme on Radio TOK FM. The discussion explored ancient bacteria as a source of new antibiotics and the ongoing molecular “arms race” between bacteria and viruses, highlighting their potential for future biotechnology and infection control. The full interview can be accessed as a podcast here.\n\n\n\n\n\n  2024\n  Film\n\n\n  Short film about phages\n  In collaboration with the Jagiellonian University Centre for Community Relations, we created a short video to illustrate what bacteriophages (phages) are and why we are studying them. Watch the film on Youtube:\n  \n    → English version\n    → Polish version\n  \n\n\n\n\n\n  2024\n  TV interview\n\n\n  Rafal's interview on TVP Nauka\n  On 25 November, Rafal was featured on Telewizja Polska (TVP Nauka) in the programme Nauka jest wszędzie (\"Science Is Everywhere\"). He discussed vaccines, their role in public health and the challenges posed by viral evolution. All episodes of TVP Nauka can be found under this link."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Decoding how microbes evolve",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n  \n    Microbial Genomics · MCB Jagiellonian University · Kraków\n    Decoding how microbes evolve\n    A computational group at the Malopolska Centre of Biotechnology at Jagiellonian University in Krakow studying phage–bacteria co-evolution through bioinformatics, comparative genomics and data analysis.\n    No wet lab — just code, data and ideas\n    Explore our research →\n  \n\n\n\n\n  \n    Research\n    Three open questions\n    We study receptor-binding proteins (RBPs) in Klebsiella pneumoniae phages — the proteins that determine which bacteria a phage can infect, and the primary drivers of host-range evolution.\n    \n      \n        Area 1\n        Genetic & structural diversity\n        What RBP diversity exists? We catalogue and characterise RBPs computationally at sequence and structural scale.\n      \n      \n        Area 2\n        Functional diversity & breadth\n        How does sequence map to function? The relationship is more complex than assumed — many RBPs are enzymes, the activity and specificity of which against polysaccharides is hard to predict.\n      \n      \n        Area 3\n        Adaptation via innovation\n        How does domain and sub-domain recombination generate new RBP functions and structures? We trace the evolutionary paths by which phages adapt to new hosts.\n      \n    \n    Full research overview →\n  \n\nPublicationsSelected recent papersPreprintStructural modularity of receptor-binding proteins underlies host-range strategy diversification in Klebsiella pneumoniae phagesVyshakh R. Panicker, Bogna J. Smug, Victor Klein-Sousa, Mark C. Enright, Nicholas M.I. Taylor, Zuzanna Drulis-Kawa, Rafał J. MostowybioRxiv doi →2026\nNature CommunicationsDepoCatalog: mapping diversity of 129 recombinantly produced Klebsiella phage depolymerasesAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grazyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh R. Panicker, Sara Jablonska, Mathilde Hulsens, Jana Stender, Maha Niazi, Sabrina Green, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Jens A. Hammerl, Rob Lavigne, Yves Briers, Rafal J. Mostowy, Zuzanna Drulis-KawaNature Communications doi →2026\nPLOS BiologyCapsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymesAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. MostowyPLOS Biology doi →2026\nAll publications →\n\n\n  \n    News\n    Latest updates\n    \n\n\n1 July 2026\n\n\nWe’re hiring! New postdoctoral position in computational phage biology — applications open now, deadline 21st July. See the ad →\n\n\n\n\n1 June 2026\n\n\nNew preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of Klebsiella pneumoniae phage receptor binding proteins! Read →\n\n\n\n\n22 May 2026\n\n\nNew article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in Nature Communications. Read →\n\n\n    \n    All news →\n  \n\n\n\n\n  \n    Funding\n    Our supporters\n    \n      \n      \n    \n    Past support"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\nWe are a small group — deliberately. A focused team working on a well-defined set of questions, with each person taking real intellectual ownership of their project."
+  },
+  {
+    "objectID": "team.html#current-members",
+    "href": "team.html#current-members",
+    "title": "Team",
+    "section": "Current members",
+    "text": "Current members\n\n\n  \n    Rafal Mostowy\n    PI · Associate Professor\n    MCB Jagiellonian University · since 2019\n    \n      ORCID · \n      @RafalMostowy ·\n      Google Scholar\n    \n  \n  \n    \n    Dr Bogna Smug\n    Postdoctoral researcher\n    since July 2019\n  \n\n  \n    Dr Karol Ciuchcinski\n    Postdoctoral researcher\n    since December 2025\n  \n\n  \n    Janusz Koszucki\n    PhD student\n    since January 2020\n  \n\n  \n    Wanangwa Ndovie\n    PhD student\n    since October 2021 · thesis submitted\n  \n\n  \n    Vyshakh Rajachandra Panicker\n    PhD student\n    since December 2021\n  \n\n  \n    Aleksandra Sulma\n    Lab manager\n    since August 2022\n  \n\n  \n    Paula Konowalska\n    MSc student\n    since March 2026"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\nName\nRole\nPeriod\nNow\n\n\n\n\nDr Jade Leconte\nPostdoc\nSep 2023 – Sep 2025\n\n\n\nDr Krzysztof Szczepaniak\nPostdoc\nAug 2020 – Jan 2023\nIIMCB, Warsaw\n\n\nJan Havránek\nMSc student\nOct 2020 – Jun 2021\nEligo Biosciences, Paris"
+  },
+  {
+    "objectID": "team.html#pi-rafal-mostowy",
+    "href": "team.html#pi-rafal-mostowy",
+    "title": "Team",
+    "section": "PI — Rafal Mostowy",
+    "text": "PI — Rafal Mostowy\nRafal did his PhD at ETH Zurich (mathematical modelling of host-parasite coevolution), then held postdoctoral and fellowship positions at Imperial College London and the University of Oxford (bacterial population genomics, recombination inference). He joined Jagiellonian University in 2019 and has since shifted the group’s focus toward bacteriophage genomics. He was promoted to Associate Professor in 2025.\nFull CV in the IAB report (2025)."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact"
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-we-do",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-we-do",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "What we do",
+    "text": "What we do\nWe are a computational group studying how bacteriophages evolve to outsmart bacteria — no wet lab, just code, data, and ideas. We use comparative genomics, structural modelling, and evolutionary analysis to understand how recombination and horizontal gene transfer generate new protein functions, focusing on receptor-binding proteins (RBPs): the molecular keys phages use to recognise and infect specific bacterial strains."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#the-project",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#the-project",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "The project",
+    "text": "The project\nPhages frequently encode enzymes that recognise and degrade bacterial surface glycans — capsules and lipopolysaccharides — and these interactions shape host range, virulence, and long-term co-evolution. We’re particularly interested in prophages hidden inside bacterial genomes: an underexplored reservoir of receptor-binding diversity. Using Klebsiella pneumoniae (~150+ distinct capsule types) as a model system, this project asks how genomic diversity and structural modularity in depolymerases relate to glycan specificity, and how recombination at the domain — and sub-domain — level generates new functions.\nThe project builds on a strong and active publication record — see mostowylab.com for our current papers and preprints — and is entering a new phase focused on understanding how structural modules encode specificity and evolve."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-youd-be-doing",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-youd-be-doing",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "What you’d be doing",
+    "text": "What you’d be doing\n\nLarge-scale comparative genomics of bacterial and prophage genomes\nBioinformatic identification and classification of glycan-degrading enzymes\nEvolutionary analysis of modular protein architectures\nStructure-informed approaches, including AlphaFold-based modelling\nStatistical and population-level analyses linking enzyme diversity to bacterial surface types"
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#why-this-collaboration-matters",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#why-this-collaboration-matters",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "Why this collaboration matters",
+    "text": "Why this collaboration matters\nThis is a computational role, but your predictions won’t sit in a folder. We work closely with Prof. Zuzanna Drulis-Kawa’s group at the University of Wrocław, a leading international centre in phage and depolymerase biology — so the specificities you predict get tested experimentally, and the results feed back into the model. You’ll have a real say in what gets tested and how the findings are interpreted, without needing to run the experiments yourself."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#the-bigger-picture",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#the-bigger-picture",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "The bigger picture",
+    "text": "The bigger picture\nOur long-term goal is a predictive, mechanistic framework for receptor-binding protein design — grounded in evolutionary principles rather than opaque machine learning. Over the next decade we aim to move from cataloguing diversity, to testing hypotheses about the enzyme families involved, to eventually engineering RBPs against clinical strains. This project sits at the early-to-mid part of that roadmap, with real room to shape its direction."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#who-thrives-here",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#who-thrives-here",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "Who thrives here",
+    "text": "Who thrives here\nThis is a small, focused group — that’s a feature, not a limitation. You’ll work directly with the PI, have genuine intellectual ownership of your questions, and be part of an international network (collaborators in the UK, France, and Poland)."
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-were-looking-for",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#what-were-looking-for",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "What we’re looking for",
+    "text": "What we’re looking for\nWe’re flexible on the specifics — we’re primarily looking for a strong computational scientist with real curiosity about biology, and a willingness to learn. If most of the list below describes you, and the rest sounds exciting rather than daunting, we’d like to hear from you.\nYou’ll likely have:\n\nA PhD in bioinformatics, computational biology, genomics, evolutionary biology, or a related quantitative field\nExperience analysing genomic or protein sequence data\nProficiency in Python, R, or a similar language, ideally with some experience in reproducible workflows (e.g. Git)\nA track record of research output — peer-reviewed papers and/or preprints\nCuriosity about microbial genomics, phage biology, or host–microbe interactions\nThe ability to work independently and contribute ideas, not just execute a plan\n\nNice to have, not required:\n\nExperience with evolutionary, phylogenetic, or population-genetic analysis\nInterest in protein evolution, structural bioinformatics, or AlphaFold-based approaches\nPrior experience in phage biology specifically — genuinely not a prerequisite"
+  },
+  {
+    "objectID": "old-jobs/job-postdoc-computational-phage-biology-2026.html#practical-information",
+    "href": "old-jobs/job-postdoc-computational-phage-biology-2026.html#practical-information",
+    "title": "Postdoctoral Researcher — Computational Phage Biology",
+    "section": "Practical information",
+    "text": "Practical information\n\nLocation: Kraków, Poland (Małopolska Centre of Biotechnology)\nDuration: Initially 1 year, with the possibility of extension up to two years\nSalary: In line with Polish national science funding scales for postdoctoral researchers (NCN)\nStart date: To confirm — flexible, as soon as possible\nApplication deadline: 20 July 2026\n\nTo express interest, please send a CV and a short note on your research interests and motivation. Informal enquiries are very welcome — if you’re not sure whether this is the right fit, just ask.\nApply by email →\n\nThis is a direct, informal call shared ahead of the official university posting, which will follow. Strong candidates identified through this call will be supported through the formal application process once it opens."
   },
   {
     "objectID": "research.html",
@@ -140,52 +224,94 @@
     "text": "Collaborations\nNational\n\nProf. Zuzanna Drulis-Kawa, University of Wrocław — experimental microbiology, validation of computational predictions\nDr Stanisław Dunin-Horkawicz, University of Warsaw — computational structural biology\n\nInternational\n\nProf. Kathryn Holt, London School of Hygiene and Tropical Medicine — microbial systems genomics\nProf. Eduardo Rocha, Institut Pasteur — evolutionary microbial genomics\nProf. Ed Feil, University of Bath — evolution and ecology of microbial pathogens"
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\nWe are a small group — deliberately. A focused team working on a well-defined set of questions, with each person taking real intellectual ownership of their project."
-  },
-  {
-    "objectID": "team.html#current-members",
-    "href": "team.html#current-members",
-    "title": "Team",
-    "section": "Current members",
-    "text": "Current members\n\n\n  \n    Rafal Mostowy\n    PI · Associate Professor\n    MCB Jagiellonian University · since 2019\n    \n      ORCID · \n      @RafalMostowy ·\n      Google Scholar\n    \n  \n  \n    \n    Dr Bogna Smug\n    Postdoctoral researcher\n    since July 2019\n  \n\n  \n    Dr Karol Ciuchcinski\n    Postdoctoral researcher\n    since December 2025\n  \n\n  \n    Janusz Koszucki\n    PhD student\n    since January 2020\n  \n\n  \n    Wanangwa Ndovie\n    PhD student\n    since October 2021 · thesis submitted\n  \n\n  \n    Vyshakh Rajachandra Panicker\n    PhD student\n    since December 2021\n  \n\n  \n    Aleksandra Sulma\n    Lab manager\n    since August 2022\n  \n\n  \n    Paula Konowalska\n    MSc student\n    since March 2026"
-  },
-  {
-    "objectID": "team.html#alumni",
-    "href": "team.html#alumni",
-    "title": "Team",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n\nName\nRole\nPeriod\nNow\n\n\n\n\nDr Jade Leconte\nPostdoc\nSep 2023 – Sep 2025\n\n\n\nDr Krzysztof Szczepaniak\nPostdoc\nAug 2020 – Jan 2023\nIIMCB, Warsaw\n\n\nJan Havránek\nMSc student\nOct 2020 – Jun 2021\nEligo Biosciences, Paris"
-  },
-  {
-    "objectID": "team.html#pi-rafal-mostowy",
-    "href": "team.html#pi-rafal-mostowy",
-    "title": "Team",
-    "section": "PI — Rafal Mostowy",
-    "text": "PI — Rafal Mostowy\nRafal did his PhD at ETH Zurich (mathematical modelling of host-parasite coevolution), then held postdoctoral and fellowship positions at Imperial College London and the University of Oxford (bacterial population genomics, recombination inference). He joined Jagiellonian University in 2019 and has since shifted the group’s focus toward bacteriophage genomics. He was promoted to Associate Professor in 2025.\nFull CV in the IAB report (2025)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Decoding how microbes evolve",
-    "section": "",
-    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n  \n    Microbial Genomics · MCB Jagiellonian University · Kraków\n    Decoding how microbes evolve\n    A computational group at the Malopolska Centre of Biotechnology at Jagiellonian University in Krakow studying phage–bacteria co-evolution through bioinformatics, comparative genomics and data analysis.\n    No wet lab — just code, data and ideas\n    Explore our research →\n  \n\n\n\n\n  \n    Research\n    Three open questions\n    We study receptor-binding proteins (RBPs) in Klebsiella pneumoniae phages — the proteins that determine which bacteria a phage can infect, and the primary drivers of host-range evolution.\n    \n      \n        Area 1\n        Genetic & structural diversity\n        What RBP diversity exists? We catalogue and characterise RBPs computationally at sequence and structural scale.\n      \n      \n        Area 2\n        Functional diversity & breadth\n        How does sequence map to function? The relationship is more complex than assumed — many RBPs are enzymes, the activity and specificity of which against polysaccharides is hard to predict.\n      \n      \n        Area 3\n        Adaptation via innovation\n        How does domain and sub-domain recombination generate new RBP functions and structures? We trace the evolutionary paths by which phages adapt to new hosts.\n      \n    \n    Full research overview →\n  \n\nPublicationsSelected recent papersPreprintStructural modularity of receptor-binding proteins underlies host-range strategy diversification in Klebsiella pneumoniae phagesVyshakh R. Panicker, Bogna J. Smug, Victor Klein-Sousa, Mark C. Enright, Nicholas M.I. Taylor, Zuzanna Drulis-Kawa, Rafał J. MostowybioRxiv doi →2026\nNature CommunicationsDepoCatalog: mapping diversity of 129 recombinantly produced Klebsiella phage depolymerasesAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grazyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh R. Panicker, Sara Jablonska, Mathilde Hulsens, Jana Stender, Maha Niazi, Sabrina Green, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Jens A. Hammerl, Rob Lavigne, Yves Briers, Rafal J. Mostowy, Zuzanna Drulis-KawaNature Communications doi →2026\nPLOS BiologyCapsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymesAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. MostowyPLOS Biology doi →2026\nAll publications →\n\n\n  \n    News\n    Latest updates\n    \n\n\n1 June 2026\n\n\nNew preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of Klebsiella pneumoniae phage receptor binding proteins! Read →\n\n\n\n\n22 May 2026\n\n\nNew article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in Nature Communications. Read →\n\n\n\n\n13 May 2026\n\n\nRafal gives two radio interviews about phages, one in Polskie Radio Jedynka and one in Radio Kraków. Check our Outreach page!→\n\n\n    \n    All news →\n  \n\n\n\n\n  \n    Funding\n    Our supporters\n    \n      \n      \n    \n    Past support"
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Outreach",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
     "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact"
   },
   {
-    "objectID": "outreach.html#science-beyond-the-lab",
-    "href": "outreach.html#science-beyond-the-lab",
-    "title": "Outreach",
-    "section": "Science beyond the lab",
-    "text": "Science beyond the lab\n\nWe believe research should speak to more than specialists. Here are some of the ways we have tried to bring microbial evolution to broader audiences.\n\n\n\n\n\n  2026\n  Radio interview\n\n\n  Rafal's two radio interviews about phages\n  Rafal spoke about bacteriophages and antibiotic resistance in two national radio interviews this week — on Polskie Radio Jedynka on 12 May. and Radio Kraków on 13 May. Both conversations covered how phages work as precision tools against bacteria, why antibiotic resistance is an escalating clinical problem, and how the lab's computational research at MCB contributes to the search for alternatives. \n\n\n\n\n\n\n  2026\n  Comic book\n\n\n  A comic book about phages\n  We collaborated with a comic book artist, Paweł Piechnik, to create an illustrated story about bacteriophages and why they are important for the society. The comic is aimed at everyone and no biology background is required. We hope you like it! Available in Polish and English.\n  \n    → English version\n    → Polish version\n  \n\n\n\n\n\n  2026\n  Radio interview\n\n\n  Rafal's appearance on \"OFF Czarek\"\n  On 25 March, Rafal was a guest on the OFF Czarek programme on Radio TOK FM. The discussion explored ancient bacteria as a source of new antibiotics and the ongoing molecular “arms race” between bacteria and viruses, highlighting their potential for future biotechnology and infection control. The full interview can be accessed as a podcast here.\n\n\n\n\n\n  2024\n  Film\n\n\n  Short film about phages\n  In collaboration with the Jagiellonian University Centre for Community Relations, we created a short video to illustrate what bacteriophages (phages) are and why we are studying them. Watch the film on Youtube:\n  \n    → English version\n    → Polish version\n  \n\n\n\n\n\n  2024\n  TV interview\n\n\n  Rafal's interview on TVP Nauka\n  On 25 November, Rafal was featured on Telewizja Polska (TVP Nauka) in the programme Nauka jest wszędzie (\"Science Is Everywhere\"). He discussed vaccines, their role in public health and the challenges posed by viral evolution. All episodes of TVP Nauka can be found under this link."
+    "objectID": "contact.html#microbial-genomics-group",
+    "href": "contact.html#microbial-genomics-group",
+    "title": "Contact",
+    "section": "Microbial Genomics Group",
+    "text": "Microbial Genomics Group\nRafal Mostowy\nAssociate Professor\nMałopolska Centre of Biotechnology\nJagiellonian University\nul. Gronostajowa 7A\n30-387 Kraków, Poland\nEmail: rafal.mostowy@uj.edu.pl\nTwitter/X: @RafalMostowy\nORCID: 0000-0002-5763-6670\nGoogle Scholar: link\nGroup GitHub: bioinf-mcb"
+  },
+  {
+    "objectID": "contact.html#institute",
+    "href": "contact.html#institute",
+    "title": "Contact",
+    "section": "Institute",
+    "text": "Institute\nThe group is based at the Małopolska Centre of Biotechnology (MCB), part of Jagiellonian University — one of the oldest universities in Europe, founded in 1364, located in Kraków, Poland."
+  },
+  {
+    "objectID": "contact.html#for-prospective-students-and-postdocs",
+    "href": "contact.html#for-prospective-students-and-postdocs",
+    "title": "Contact",
+    "section": "For prospective students and postdocs",
+    "text": "For prospective students and postdocs\nPlease read the Join Us page before writing. It describes what we are looking for and what kind of projects are available."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n1 July 2026 We’re hiring! New postdoctoral position in computational phage biology — applications open now, deadline 21st July. See the ad →\n\n\n1 June 2026 New preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of Klebsiella pneumoniae phage receptor binding proteins! Read →\n\n\n22 May 2026 New article! An important milestone for our collaboration with Zuzanna Drulis-Kawa is now out in Nature Communications. Read →\n\n\n13 May 2026 Rafal gives two radio interviews about phages, one in Polskie Radio Jedynka and one in Radio Kraków. Check our Outreach page!→\n\n\n28 Apr 2026 New article! Our work on the diverse capsule-targeting enzymes of temperate phages in Klebsiella pneumoniae is out in PLOS Biology. Read →\n\n\n27 Apr 2026 We collaborated with a comic book artist to create a comic book about phages. Check our Outreach page!→\n\n\n18 Mar 2026 Paula Konowalska joins Microbial Genomics as a MSc student. Her project will focus on using AI to predict polysaccharide-specific enzymes, in collaboration with the Group of Machine Learning Research at UJ (gmum.net).\n\n\n29 Jan 2026 Wanangwa Ndovie successfully submits his PhD thesis. Congratulations!\n\n\n22 Jan 2026 Rafal gives a talk at the symposium “Bacteriophages in Science and in Practice” at IBB PAS in Warsaw.\n\n\n1 Dec 2025 Dr Karol Ciuchciński joins Microbial Genomics as a postdoc. His project will focus on analysing ONT-sequenced genomes of K. pneumoniae from an Australian clinical collection and studying their prophages.\n\n\n19 Nov 2025 Rafal visits Nicholas M. I. Taylor at the Novo Nordisk Foundation Centre for Protein Research at the University of Copenhagen.\n\n\n10 Sep 2025 Rafal gives a talk at the Phage Protein Meeting 2025 in Ghent, Belgium.\n\n\n9 Sep 2025 Our collaborative work on the Klebsiella depolymerase catalogue with Zuzanna Drulis-Kawa’s lab is out as a preprint. See the Publications page."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact\n    \n  \n\n  \n    \n      \n        \n      \n      \n        \n      \n    \n    \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n\n2026\n\n\n\nPLOS Biology Capsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymes\n\n\nAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy\n\n\nPLOS Biology:online doi →\n\n\n\n\nNature Communications DepoCatalog: mapping diversity of 129 recombinantly produced Klebsiella phage depolymerases\n\n\nAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grazyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh R. Panicker, Sara Jablonska, Mathilde Hulsens, Jana Stender, Maha Niazi, Sabrina Green, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Jens A. Hammerl, Rob Lavigne, Yves Briers, Rafal J. Mostowy, Zuzanna Drulis-Kawa\n\n\nNature Communications:online doi →\n\n\n\n\nPreprint Structural modularity of receptor-binding proteins underlies host-range strategy diversification in Klebsiella pneumoniae phages\n\n\nVyshakh R. Panicker, Bogna J. Smug, Victor Klein-Sousa, Mark C. Enright, Nicholas M.I. Taylor, Zuzanna Drulis-Kawa, Rafał J. Mostowy\n\n\nbioRxiv doi →\n\n\n\n\n\n2025\n\n\n\nmSystems Exploration of the genetic landscape of bacterial dsDNA viruses reveals an ANI gap amid extensive mosaicism\n\n\nWanangwa Ndovie, Jan Havránek, Jade Leconte, Janusz Koszucki, Leonid Chindelevitch, Evelien M. Adriaenssens, Rafal J. Mostowy\n\n\nmSystems:e0166124 doi →\n\n\n\n\nPreprint Capsular specificity in temperate phages of Klebsiella pneumoniae is driven by diverse receptor-binding enzymes\n\n\nAleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P.C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy\n\n\nbioRxiv:2025.06.25.661490 doi →\n\n\n\n\nPreprint DepoCatalog: mapping the diversity of 105 recombinant Klebsiella phage depolymerases across sequence, structure, and substrate specificity\n\n\nAleksandra Otwinowska, Sebastian Olejniczak, Agnieszka Latka, Maria Pozniak, Grażyna Majkowska-Skrobek, Barbara Maciejewska, Janusz Koszucki, Vyshakh Panicker, Sara Jabłońska, Mathilde Hulsens, Joachim J. Bugert, Régis Tournebize, Stan J.J. Brouns, Flavia Squeglia, Rita Berisio, Yves Briers, Rafal Mostowy, Zuzanna Drulis-Kawa\n\n\nbioRxiv:2025.09.09.675204 doi →\n\n\n\n\n\n2023\n\n\n\nNature Communications Ongoing shuffling of protein fragments diversifies core viral functions linked to interactions with bacterial hosts\n\n\nBogna J. Smug, Krzysztof Szczepaniak, Eduardo P.C. Rocha, Stanislaw Dunin-Horkawicz, Rafał J. Mostowy\n\n\nNature Communications 14(1):7460 doi →\n\n\n\n\n\n2022\n\n\n\nBMC Bioinformatics vCOMBAT: a novel tool to create and visualize a computational model of bacterial antibiotic target-binding\n\n\nVi Ngoc-Nha Tran, Alireza Shams, Sinan Ascioglu, Antal Martinecz, Jingyi Liang, Fabrizio Clarelli, Rafal Mostowy, Ted Cohen, Pia Abel zur Wiesch\n\n\nBMC Bioinformatics 23(1):22 doi →\n\n\n\n\n\n2020\n\n\n\nThe ISME Journal Diversity and evolution of surface polysaccharide synthesis loci in Enterobacteriales\n\n\nKathryn E. Holt, Florent Lassalle, Kelly L. Wyres, Ryan Wick, Rafał J. Mostowy\n\n\nThe ISME Journal 14:740–758 doi →\n\n\n\n\nScience Advances Horizontal gene transfer rate is not the primary determinant of observed antibiotic resistance frequencies in Streptococcus pneumoniae\n\n\nSonja Lehtinen, Claire Chewapreecha, John Lees, William P. Hanage, Marc Lipsitch, Nicholas J. Croucher, Stephen D. Bentley, Paul Turner, Christophe Fraser, Rafał J. Mostowy\n\n\nScience Advances 6(21):eaaz6137 doi →\n\n\n\n\n\n2019\n\n\n\nPLoS Pathogens Shigella sonnei infection of zebrafish reveals that O-antigen mediates neutrophil tolerance and dysentery incidence\n\n\nVincenzo Torraca, Myrsini Kaforou, Jayne Watson, Gina M. Duggan, Hazel Guerrero-Gutierrez, Sina Krokowski, Michael Hollinshead, Thomas B. Clarke, Rafal J. Mostowy, Gillian S. Tomlinson, Vanessa Sancho-Shimizu, Abigail Clements, Serge Mostowy\n\n\nPLoS Pathogens 15(12):e1008006 doi →\n\n\n\n\n\n2018\n\n\n\nTrends in Microbiology Diversity-generating machines: genetics of bacterial sugar-coating\n\n\nRafał J. Mostowy, Kathryn E. Holt\n\n\nTrends in Microbiology 26(12):1008–1021 doi →\n\n\n\n\n\n2017\n\n\n\nmBio Evolution of the Staphylococcus argenteus ST2250 clone in northeastern Thailand is linked with the acquisition of livestock-associated staphylococcal genes\n\n\nDanesh Moradigaravand, Dorota Jamrozy, Rafal Mostowy, Annaliesa Anderson, Emma K. Nickerson, Janjira Thaipadungpanit, Vanaporn Wuthiekanun, Direk Limmathurotsakul, Sarunporn Tandhavanant, Chanthiwa Wikraiphat, Gumphol Wongsuvan, Nittaya Teerawattanasook, Yaowaruk Jutrakul, Nuttiya Srisurat, Prajuab Chaimanee, T.Eoin West, Beth Blane, Julian Parkhill, Narisara Chantratita, Sharon J. Peacock\n\n\nmBio 8(4):e00802–17 doi →\n\n\n\n\nMolecular Biology and Evolution Efficient inference of recent and ancestral recombination within bacterial populations\n\n\nRafal Mostowy, Nicholas J. Croucher, Cheryl P. Andam, Jukka Corander, William P. Hanage, Pekka Marttinen\n\n\nMolecular Biology and Evolution 34(5):1167–1182 doi →\n\n\n\n\nMolecular Biology and Evolution Pneumococcal capsule synthesis locus cps as evolutionary hotspot with potential to generate novel serotypes by recombination\n\n\nRafał J. Mostowy, Nicholas J. Croucher, Nicola De Maio, Claire Chewapreecha, Susannah J. Salter, Paul Turner, David M. Aanensen, Stephen D. Bentley, Xavier Didelot, Christophe Fraser\n\n\nMolecular Biology and Evolution 34(10):2537–2554 doi →\n\n\n\n\n\n2016\n\n\n\nPLoS Biology Horizontal DNA transfer mechanisms of bacteria as weapons of intragenomic conflict\n\n\nNicholas J. Croucher, Rafal Mostowy, Christopher Wymant, Paul Turner, Stephen D. Bentley, Christophe Fraser\n\n\nPLoS Biology 14(3):e1002394 doi →\n\n\n\n\n\n2014\n\n\n\nPLoS Genetics Heterogeneity in the frequency and characteristics of homologous recombination in pneumococcal evolution\n\n\nRafal Mostowy, Nicholas J. Croucher, William P. Hanage, Simon R. Harris, Stephen Bentley, Christophe Fraser\n\n\nPLoS Genetics 10(5):e1004300 doi →\n\n\n\n\n\n2012\n\n\n\nPLoS Computational Biology Evolution of stress response in the face of unreliable environmental signals\n\n\nMarkus Arnoldini, Rafal Mostowy, Sebastian Bonhoeffer, Martin Ackermann\n\n\nPLoS Computational Biology 8(8):e1002627 doi →\n\n\n\n\nJournal of Evolutionary Biology Host-parasite coevolution induces selection for condition-dependent sex\n\n\nR. Mostowy, J. Engelstädter\n\n\nJournal of Evolutionary Biology 25(10):2033–2046 doi →\n\n\n\n\nBMC Evolutionary Biology Non-genetic inheritance and the patterns of antagonistic coevolution\n\n\nRafal Mostowy, Jan Engelstädter, Marcel Salathé\n\n\nBMC Evolutionary Biology 12(1):93 doi →\n\n\n\n\nPLoS Computational Biology Estimating the fitness cost of escape from HLA presentation in HIV-1 protease and reverse transcriptase\n\n\nRafal Mostowy, Roger D. Kouyos, Ilka Hoof, Trevor Hinkley, Mojgan Haddad, Jeannette M. Whitcomb, Christos J. Petropoulos, Can Kesmir, Sebastian Bonhoeffer\n\n\nPLoS Computational Biology 8(5):e1002525 doi →\n\n\n\n\n\n2011\n\n\n\nProceedings of the Royal Society B: Biological Sciences The impact of environmental change on host-parasite coevolutionary dynamics\n\n\nRafal Mostowy, Jan Engelstädter\n\n\nProceedings of the Royal Society B: Biological Sciences 278(1716):2283–2292 doi →\n\n\n\n\nPLoS ONE The role of recombination for the coevolutionary dynamics of HIV and the immune response\n\n\nRafal Mostowy, Roger D. Kouyos, David Fouchet, Sebastian Bonhoeffer\n\n\nPLoS ONE 6(2):e16052 doi →\n\n\n\n\n\n2010\n\n\n\nEvolution On the evolution of sexual reproduction in hosts coevolving with multiple parasites\n\n\nRafal Mostowy, Marcel Salathé, Roger D. Kouyos, Sebastian Bonhoeffer\n\n\nEvolution 64(6):1644–1656 doi →\n\n\n\n\n\nFull list on Google Scholar"
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "Research\n      Publications\n      Team\n      Outreach\n      Opportunities\n      Contact"
+  },
+  {
+    "objectID": "opportunities.html#open-positions",
+    "href": "opportunities.html#open-positions",
+    "title": "Join Us",
+    "section": "Open positions",
+    "text": "Open positions\n\n\n  Postdoctoral Researcher — Computational evolution of prophages →\n  Deadline: 21 July 2026\n\n\nThis is a computational group. We do not have a wet lab. If you join us, you will write code every day — Python, R, Bash, and whatever else the problem needs. You will not pipette.\nThis is worth stating clearly because it shapes who will thrive here. If you want to learn bioinformatics, evolutionary genomics, and structural biology as the primary scientific activity — not as a support tool for experiments — this is the right place."
+  },
+  {
+    "objectID": "opportunities.html#what-we-look-for",
+    "href": "opportunities.html#what-we-look-for",
+    "title": "Join Us",
+    "section": "What we look for",
+    "text": "What we look for\nIn every role, we care most about intellectual independence and rigour. We want people who:\n\nare genuinely curious about evolutionary biology and want to understand mechanism, not just find patterns\nwrite clean, reproducible code and take data integrity seriously\ncan read a paper critically and identify what it does and does not show\nare comfortable with uncertainty and with projects that take a long time to mature\n\nPrior experience with microbiology or phages is not required. Strong computational skills and an evolutionary mindset matter more."
+  },
+  {
+    "objectID": "opportunities.html#phd-positions",
+    "href": "opportunities.html#phd-positions",
+    "title": "Join Us",
+    "section": "PhD positions",
+    "text": "PhD positions\nWe recruit PhD students through the doctoral programme at the Małopolska Centre of Biotechnology (MCB), Jagiellonian University.\nPhD projects in the group focus on:\n\nComputational characterisation and prediction of phage receptor-binding protein function\nEvolutionary genomics of Klebsiella phages: recombination, mosaicism, and host range\nDevelopment of bioinformatics pipelines for viral genome analysis\n\nTo enquire about PhD opportunities, send an email with your CV, a brief description of your computational background, and a paragraph explaining why you are interested in our work specifically. Vague expressions of interest are unlikely to receive a response."
+  },
+  {
+    "objectID": "opportunities.html#postdoctoral-positions",
+    "href": "opportunities.html#postdoctoral-positions",
+    "title": "Join Us",
+    "section": "Postdoctoral positions",
+    "text": "Postdoctoral positions\nWe periodically advertise project-funded postdoctoral positions — see Open positions above for current calls. Outside of these calls, we are always interested in hearing from strong candidates who want to apply for independent fellowship funding to work in the group.\nRelevant schemes include:\n\nMarie Skłodowska-Curie Postdoctoral Fellowships (European Commission)\nNCN Polonez Bis (National Science Centre Poland)\nHFSP Long-Term Fellowships (Human Frontier Science Program)\nEMBO Postdoctoral Fellowships\n\nIf you are interested in applying for one of these with us as host, get in touch well before any deadline — fellowship applications require real preparation time and we will only support applications we believe have a genuine chance of success."
+  },
+  {
+    "objectID": "opportunities.html#msc-students",
+    "href": "opportunities.html#msc-students",
+    "title": "Join Us",
+    "section": "MSc students",
+    "text": "MSc students\nWe take MSc students through Jagiellonian University. If you are enrolled at JU (or another Kraków university) and are looking for a computational thesis project in microbial genomics or phage biology, send a short email introducing yourself."
+  },
+  {
+    "objectID": "opportunities.html#contact",
+    "href": "opportunities.html#contact",
+    "title": "Join Us",
+    "section": "Contact",
+    "text": "Contact\nrafal.mostowy@uj.edu.pl\nMałopolska Centre of Biotechnology, Jagiellonian University, Kraków"
   }
 ]

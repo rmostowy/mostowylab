@@ -333,9 +333,34 @@ document.addEventListener("DOMContentLoaded", function () {
 </header>
 
 
+<section id="open-positions" class="level2">
+<h2 class="anchored" data-anchor-id="open-positions">Open positions</h2>
+<!--
+  HOW TO ADD A NEW AD:
+  1. Create a new .qmd file at the PROJECT ROOT — NOT in a subfolder. Prefix the filename
+     with "job-" to keep it easy to spot, e.g. job-phd-2027-something.qmd. Copy
+     job-postdoc-computational-phage-biology-2026.qmd as a starting template.
+  2. Add a button below, copying the pattern of the one already there.
+
+  WHY ROOT, NOT A SUBFOLDER: the navbar (includes/navbar-center.html) uses relative links
+  like href="research.html" and src="assets/logo.png". Those only resolve correctly for
+  pages at the project root. A page placed even one folder down (e.g. job_ads/...) breaks
+  the logo and every nav link, because the browser then looks for job_ads/research.html,
+  which doesn't exist. Don't move job ad pages into a subfolder.
+
+  HOW TO CLOSE AN AD: delete its button below. If no positions are open, replace this
+  whole block with: <p>There are no open positions advertised right now. See below for
+  how to express interest in PhD, postdoc, or MSc opportunities generally.</p>
+-->
+<div class="opening-block">
+  <a class="btn-lab" href="job-postdoc-prophage-evolution-2026.html">Postdoctoral Researcher — Computational evolution of prophages →</a>
+  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 July 2026</div>
+</div>
+<hr>
 <p><strong>This is a computational group.</strong> We do not have a wet lab. If you join us, you will write code every day — Python, R, Bash, and whatever else the problem needs. You will not pipette.</p>
 <p>This is worth stating clearly because it shapes who will thrive here. If you want to learn bioinformatics, evolutionary genomics, and structural biology <em>as the primary scientific activity</em> — not as a support tool for experiments — this is the right place.</p>
 <hr>
+</section>
 <section id="what-we-look-for" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-look-for">What we look for</h2>
 <p>In every role, we care most about intellectual independence and rigour. We want people who:</p>
@@ -362,7 +387,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </section>
 <section id="postdoctoral-positions" class="level2">
 <h2 class="anchored" data-anchor-id="postdoctoral-positions">Postdoctoral positions</h2>
-<p>We currently have no open advertised postdoc positions. However, we are always interested in hearing from strong candidates who want to apply for <strong>independent fellowship funding</strong> to work in the group.</p>
+<p>We periodically advertise project-funded postdoctoral positions — see <strong>Open positions</strong> above for current calls. Outside of these calls, we are always interested in hearing from strong candidates who want to apply for <strong>independent fellowship funding</strong> to work in the group.</p>
 <p>Relevant schemes include:</p>
 <ul>
 <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Postdoctoral Fellowships</a> (European Commission)</li>
