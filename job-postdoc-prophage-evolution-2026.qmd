@@ -1,53 +1,82 @@
 ---
-title: "Evolutionary Genomics of Phage–Bacteria Co-evolution in *Klebsiella pneumoniae*"
 page-layout: full
 toc: false
 ---
+```{=html}
+<div style="height: 4rem;"></div>
+```
 
 ```{=html}
 <div class="jobad-header">
   <span class="jobad-pill pill-open">Open</span>
-  <span class="jobad-meta-item">Kraków, Poland</span>
+  <span class="jobad-meta-item">Krakow, Poland</span>
   <span class="jobad-meta-item">1 year, extendable to 2</span>
   <span class="jobad-meta-item">Deadline: 21 July 2026</span>
 </div>
 ```
 
-> This is an informal early call, shared directly and on social media, to start gathering expressions of interest now. A formal university posting will follow in due course — there's no need to wait for it. Get in touch any time.
+
+# Evolutionary genomics of *Klebsiella pneumoniae*'s temperate phages
 
 ## About us
 
-At the Mostowy Lab, we want to understand why phage receptor-binding proteins are so extraordinarily diverse — and what that diversity tells us about how phages and bacteria shape each other's evolution. Combining large-scale comparative genomics, phylogenetics and structural bioinformatics, we trace how these proteins innovate, diversify and specialise as phages adapt to the shifting landscape of bacterial surface polysaccharides, and how bacterial populations respond in turn. Our model system is *Klebsiella pneumoniae*, whose extraordinary capsular diversity makes it one of the richest arenas available for studying the evolution of phage host range.
+Our group studies genetic innovation in the context of co-evolution between bacteria and their viruses – phages. Specifically, we are **fascinated by the extraordinary diversity of receptor-binding proteins (RBPs)**. Our research is clustered around three main areas:
+
+- What is the genetic and structural diversity of RBPs?
+- How that diversity translates into function of RBPs?
+- How novel RBPs evolve and can we understand the rules governing their innovation?
+
+Our model system is *Klebsiella pneumoniae*, whose extraordinary capsular diversity makes it one of the richest arenas available for studying the evolution of phage host range. *Klebsiella*'s phages use diverse RBPs – including those with enzymatic domains like depolymerases – to recognise their hosts and commence infection. 
+
+**We are a dry lab** combining large-scale comparative genomics, phylogenetics and structural bioinformatics. Our goal is to understand how RBPs innovate, diversify and specialise as phages adapt to the shifting landscape of bacterial surface polysaccharides — and how bacterial populations respond in turn.
+
+Our analyses **aid fundamental understanding of evolution** as well as provide **specific predictions** that can be tested in the laboratory, often together with our collaborators.
+
 
 ## The project
+You will be a part of a **collaborative NCN SONATA BIS project with the group of Zuzanna Drulis-Kawa** at University of Wroclaw, the purpose of which is to study the genetic diversity of prophages in *Klebsiella pneumoniae* to better understand viral host range.
 
-This position is about the evolutionary genomics of prophages and the receptor-binding proteins (RBPs) that determine their host range. We recently discovered that *Klebsiella* prophages carry a far broader repertoire of capsule-interacting enzymes than previously appreciated: alongside the classical depolymerases that degrade the capsule, many carry SGNH-domain esterases that instead *modify* it, by removing — and possibly, via associated acetyltransferases, restoring — acetyl groups. Some prophages rely on one strategy, some on the other, and some appear to carry both, raising questions we haven't yet been able to ask: does carrying both a depolymerase and a deacetylase change a phage's effective host range, and does that depend on the K-type it targets or the specificity of the individual enzymes? How do these different host-recognition strategies gain and lose out over evolutionary time, and what happens to a prophage's enzyme repertoire when its host's capsule type changes?
+Our research has already:
 
-The postdoc will use our expanding collection of complete, high-quality *Klebsiella* genomes to address questions like these — situating the acetylation/deacetylation axis within the broader picture of prophage host-range evolution and RBP diversification, rather than treating it in isolation.
+- built a framework to predict genetic determinants of capsule specificity in *K. pneumoniae*[^1],
+- created a major resource for studying the genetic, structural and functional diversity of depolymerase carrying RBPs[^2],
+- built a genetic and structural RBP Atlas in *Klebsiella*, linking RBP modularity with phage host range[^3].
+
+By joining the project during the most exciting and productive phase, you will have the capacity to use these data to advance our understanding of how temperate phages evolve and how their RBPs adapt to novel hosts.
+
+## Your role
+The postdoc will focus on a new and emerging question from the project: **how do prophage-encoded enzymes that modify or degrade capsules shape phage host range?**
+
+One of our most important and recent discoveries is that *Klebsiella* prophages carry a far broader repertoire of capsule-interacting enzymes than previously appreciated: alongside the classical depolymerases that degrade the capsule, many carry SGNH-domain esterases that instead *modify* it, by removing O-acetyl groups[^1]. Some prophages rely on one strategy, some on the other, and some appear to carry both, raising questions we haven't yet been able to ask: 
+
+> 1. **What determines the specificity of a deacetylase-carrying phage, and how does it depend on the genetic context of the host (incl. K-locus and other prophages)?**
+> 2. **How do these different host-recognition strategies (depolymerase, deacetylase) gain and lose out over evolutionary time, and what happens to a prophage's enzyme repertoire when its host's capsule type changes?**
+
+You will use our expanding collections of *K. pneumoniae* genomes to address questions like these — situating the acetylation/deacetylation axis within the broader picture of prophage host-range evolution and RBP diversification, rather than treating it in isolation.
 
 ## Collaboration
 
-The lab works closely with experimental collaborators, including the phage biology group of Zuzanna Drulis-Kawa (University of Wroclaw), who test computational predictions experimentally. This is primarily a computational position, though there may be opportunities to engage with ongoing experimental prophage work in Wrocław for those interested.
+The lab works closely with experimental collaborators, including the **phage biology group of Zuzanna Drulis-Kawa (University of Wroclaw)**. While the position is primarily computational, the project includes an active experimental component focused on prophage induction, phage isolation and functional characterisation of phage-encoded enzymes, offering opportunities for interested candidates to contribute to interdisciplinary work.
+
 
 ## Who we're looking for
 
-- A background in bioinformatics, computational biology, or evolutionary/microbial genomics (PhD in hand or near completion)
+- A background in bioinformatics, computational biology, or evolutionary/microbial genomics (PhD obtained max. 7 years prior)
 - Experience with comparative genomics and/or phylogenetics; comfort working with large bacterial genome datasets
-- Solid programming skills (Python and/or R)
+- Solid programming **and** data analysis skills (Python and/or R)
 - Genuine curiosity about microbial evolution and host-pathogen interactions
+- Evidence of intellectual maturity with at least one first-author publication (preprints will be considered).
+- Prior experience with phage biology, glycobiology or protein structure is welcome but not required.
 
 ## What we offer
 
-- An initial 1-year, fully funded postdoctoral position at MCB, Jagiellonian University in Krakow, funded via NCN SONATA BIS — with a strong possibility of extension to 2 years
-- Salary: to be confirmed pending final NCN confirmation; happy to discuss directly
-- A collaborative environment linking computational genomics (Kraków) with experimental phage biology (Wrocław)
-- Access to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation)
+- An initial 1-year, fully funded postdoctoral position at MCB, Jagiellonian University in Krakow, funded via NCN — with a strong possibility of extension to 2 years.
+- A collaborative environment linking computational genomics (Krakow) with experimental phage biology (Wroclaw).
+- Access to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation).
+<!--- A competitive salary.-->
+- All benefits of full-time employment at the Jagiellonian University (health insurance, 35 days of annual leave, access to beneficial sports membership programme).
+- Freedom to shape the computational direction of the project and develop independent ideas within its broader scope.
 
-## Recent relevant publications
-
-- Otwinowska* A, Koszucki* J, Panicker VR, et al., Drulis-Kawa Z & Mostowy RJ (2026). Capsular specificity in temperate phages of *Klebsiella pneumoniae* is driven by diverse receptor-binding enzymes. *PLOS Biology*. https://doi.org/10.1371/journal.pbio.3003716
-- Otwinowska* A, Olejniczak* S, Latka A, et al., Mostowy RJ & Drulis-Kawa Z (2026). DepoCatalog: mapping diversity of 129 recombinantly produced *Klebsiella* phage depolymerases. *Nature Communications*. https://doi.org/10.1038/s41467-026-73570-7
-- Panicker VR, Smug BJ, Klein-Sousa V, Enright MC, Taylor NMI, Drulis-Kawa Z & Mostowy RJ (2026). Structural modularity of receptor-binding proteins underlies host-range strategy diversification in *Klebsiella pneumoniae* phages. *bioRxiv* 2026.05.12.724579. https://doi.org/10.64898/2026.05.12.724579
 
 ## Get in touch
 
@@ -57,3 +86,8 @@ This is a preliminary, informal call, not yet the official position advertisemen
 
 ---
 
+[^1]: Otwinowska* A, Koszucki* J, Panicker VR, et al., Drulis-Kawa Z & Mostowy RJ (2026). Capsular specificity in temperate phages of *Klebsiella pneumoniae* is driven by diverse receptor-binding enzymes. *PLOS Biology*. https://doi.org/10.1371/journal.pbio.3003716
+
+[^2]: Otwinowska* A, Olejniczak* S, Latka A, et al., Mostowy RJ & Drulis-Kawa Z (2026). DepoCatalog: mapping diversity of 129 recombinantly produced *Klebsiella* phage depolymerases. *Nature Communications*. https://doi.org/10.1038/s41467-026-73570-7
+
+[^3]: Panicker VR, Smug BJ, Klein-Sousa V, Enright MC, Taylor NMI, Drulis-Kawa Z & Mostowy RJ (2026). Structural modularity of receptor-binding proteins underlies host-range strategy diversification in *Klebsiella pneumoniae* phages. *bioRxiv* 2026.05.12.724579. https://doi.org/10.64898/2026.05.12.724579
