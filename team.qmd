@@ -25,12 +25,7 @@ A focused team working on a well-defined set of questions, with each person taki
     </div>
   </div>
   
-    <div class="team-card">
-    <div class="name">Dr Bogna Smug</div>
-    <div class="role">Postdoctoral researcher</div>
-    <div class="since">since July 2019</div>
-  </div>
-
+  
   <div class="team-card">
     <div class="name">Dr Karol Ciuchcinski</div>
     <div class="role">Postdoctoral researcher</div>
@@ -81,27 +76,60 @@ A focused team working on a well-defined set of questions, with each person taki
       <th>Name</th>
       <th>Role</th>
       <th>Period</th>
-      <th>Now</th>
+      <th>See more</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Dr Jade Leconte</td>
-      <td>Postdoc</td>
-      <td>Sep 2023 – Sep 2025</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dr Krzysztof Szczepaniak</td>
-      <td>Postdoc</td>
-      <td>Aug 2020 – Jan 2023</td>
-      <td>IIMCB, Warsaw</td>
-    </tr>
+  
     <tr>
       <td>Jan Havránek</td>
       <td>MSc student</td>
       <td>Oct 2020 – Jun 2021</td>
-      <td>Eligo Biosciences, Paris</td>
+      <td>
+      <a href="https://www.linkedin.com/in/havranej/" target="_blank">LinkedIn</a>
+      </td>
+    </tr>
+  
+    
+    <tr>
+      <td>Dr Krzysztof Szczepaniak</td>
+      <td>Postdoc</td>
+      <td>Aug 2020 – Jan 2023</td>
+      <td>
+      <a href="https://www.linkedin.com/in/krzysztof-szczepaniak-2695a1196" target="_blank">LinkedIn</a> ·
+      <a href="https://scholar.google.com/citations?user=AAnP6q0AAAAJ&hl=en" target="_blank">Google Scholar</a>
+      </td>
+    </tr>
+
+    
+    <tr>
+      <td>Maks Nęcki</td>
+      <td>MSc student</td>
+      <td>Jan 2023 – Oct 2024</td>
+      <td>
+      <a href="https://www.linkedin.com/in/maks-n%C4%99cki/" target="_blank">LinkedIn</a>
+      </td>
+    </tr>
+
+  
+    <tr>
+      <td>Dr Jade Leconte</td>
+      <td>Postdoc</td>
+      <td>Sep 2023 – Sep 2025</td>
+      <td>
+      <a href="https://www.linkedin.com/in/jade-leconte-532393a6" target="_blank">LinkedIn</a>  ·
+      <a href="https://scholar.google.com/citations?user=pujFCGcAAAAJ" target="_blank">Google Scholar</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Dr Bogna Smug</td>
+      <td>postdoc</td>
+      <td>July 2019 – Jun 2026</td>
+      <td>
+      <a href="https://www.linkedin.com/in/bogna-smug/" target="_blank">LinkedIn</a> ·
+      <a href="https://scholar.google.com/citations?user=FBpahnAAAAAJ" target="_blank">Google Scholar</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -112,5 +140,3 @@ A focused team working on a well-defined set of questions, with each person taki
 ## PI — Rafal Mostowy
 
 Rafal did his PhD at ETH Zurich (mathematical modelling of host-parasite coevolution), then held postdoctoral and fellowship positions at Imperial College London and the University of Oxford (bacterial population genomics, recombination inference). He joined Jagiellonian University in 2019 and has since shifted the group's focus toward bacteriophage genomics. He was promoted to Associate Professor in 2025.
-
-Full CV in the [IAB report (2025)](assets/mostowyreportIAB.pdf).
