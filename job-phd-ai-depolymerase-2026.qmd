@@ -1,0 +1,95 @@
+---
+page-layout: full
+toc: false
+---
+```{=html}
+<div style="height: 4rem;"></div>
+```
+
+```{=html}
+<div class="jobad-header">
+  <span class="jobad-pill pill-open">Open</span>
+  <span class="jobad-meta-item">Krakow, Poland</span>
+  <span class="jobad-meta-item">4 years</span>
+  <span class="jobad-meta-item">Deadline: 31 August 2026</span>
+</div>
+```
+
+
+# AI-driven genomics of phage-encoded capsule-degrading enzymes
+
+## About us
+
+Our group studies genetic innovation in the context of co-evolution between bacteria and their viruses — phages. Specifically, we are **fascinated by the extraordinary diversity of receptor-binding proteins (RBPs)**. Our research is clustered around three main areas:
+
+- What is the genetic and structural diversity of RBPs?
+- How does that diversity translate into function of RBPs?
+- How do novel RBPs evolve, and can we understand the rules governing their innovation?
+
+Our model system is *Klebsiella pneumoniae*, whose extraordinary capsular diversity makes it one of the richest arenas available for studying the evolution of phage host range. *Klebsiella*'s phages use diverse RBPs — including those with enzymatic domains like depolymerases — to recognise their hosts and commence infection.
+
+**We are a dry lab** combining large-scale comparative genomics, phylogenetics and structural bioinformatics — and increasingly, machine learning. Our goal is to understand how RBPs innovate, diversify and specialise as phages adapt to the shifting landscape of bacterial surface polysaccharides, and how bacterial populations respond in turn.
+
+Our analyses **aid fundamental understanding of evolution** as well as provide **specific predictions** that can be tested in the laboratory, often together with our collaborators.
+
+## The project
+
+You will join the **Microbial Genomics group** at MCB, Jagiellonian University, to help launch a new, interdisciplinary branch of the lab's research: using **AI to predict which phage-encoded depolymerases can degrade which bacterial capsules** — and to understand how this enzyme–substrate matching evolves.
+
+**This project runs in two directions at once: a close collaboration with the machine learning group GMUM (Prof. Marek Śmieja, Department of Computer Science) to build the AI side, and an active collaboration with the experimental phage biology group of Zuzanna Drulis-Kawa (University of Wrocław) to test its predictions in the lab.** That combination — computational innovation paired with experimental validation — is what makes this project distinctive.
+
+Our research has already:
+
+- built a framework to predict genetic determinants of capsule specificity in *K. pneumoniae*[^1],
+- created a major resource for studying the genetic, structural and functional diversity of depolymerase-carrying RBPs[^2],
+- built a genetic and structural RBP Atlas in *Klebsiella*, linking RBP modularity with phage host range[^3].
+
+This project will build on that foundation in two new directions. First, **methodologically**: developing deep learning models that combine bacterial and phage genomic data, enzyme-level evidence from our depolymerase resources, and representations of capsular sugar chemistry to predict depolymerase specificity — including for capsule types whose chemical structure hasn't yet been resolved. Second, **taxonomically**: extending beyond *Klebsiella pneumoniae* to other Enterobacteriaceae (e.g. *Salmonella*, *E. coli*, *Acinetobacter*), drawing on our network of phage-research collaborators to integrate genomic and glycan data across species.
+
+Underlying both is an evolutionary question the lab cares deeply about: these enzymes are exchanged between distantly related phages within *Klebsiella* — and we suspect a similar exchange happens between phages infecting entirely different bacterial pathogens, plausibly tracking the horizontal transfer of capsule types themselves across species. Selected predictions from the project will be tested experimentally, in collaboration with the phage biology group of Zuzanna Drulis-Kawa.
+
+## Your role
+
+As a PhD student, you will:
+
+- develop and train AI models to predict depolymerase–capsule specificity, working closely with the machine learning group **GMUM**, led by **Prof. Marek Śmieja** (Department of Computer Science, Jagiellonian University);
+- integrate diverse data types — full bacterial and prophage genomes, host-range datasets, enzyme-level evidence, and capsular sugar structures — into a coherent predictive framework;
+- help extend the project's scope from *Klebsiella pneumoniae* to related Enterobacteriaceae pathogens;
+- contribute to the evolutionary interpretation of the model's predictions, in the context of the lab's broader interest in RBP diversification;
+- collaborate on testing selected predictions experimentally with the Drulis-Kawa lab in Wrocław.
+
+## Collaboration
+
+- Based in the **Microbial Genomics group** at MCB, Jagiellonian University, Krakow.
+- Close, active collaboration with **GMUM** (machine learning research group, Dept. of Computer Science, Jagiellonian University) for training and joint methods development in AI.
+- Collaboration with the **phage biology group of Zuzanna Drulis-Kawa** (University of Wrocław) for experimental validation.
+
+## Who we're looking for
+
+- An MSc (or about to complete one) in bioinformatics, computational biology, computer science, or a related quantitative field.
+- Strong programming skills (Python); experience with machine learning or deep learning frameworks is a plus.
+- Genuine interest in genomics, molecular evolution, and/or AI methods for biological data — we welcome candidates from either a bioinformatics or a computer science background, with training provided on whichever side is less familiar.
+- Comfort working in an interdisciplinary environment spanning biology and AI/computer science.
+- Good written and spoken English.
+
+## What we offer
+
+- A fully funded PhD position at MCB, Jagiellonian University, within the Biomedical Sciences Education Program of the Doctoral School of Exact and Natural Sciences, including the standard doctoral stipend.
+- An **additional, tax-free research stipend of 3,000 PLN/month** at least until August 2028 (with the possibility of extension).
+- A collaborative environment linking computational genomics and AI (Krakow) with experimental phage biology (Wrocław).
+- Access to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation).
+- Freedom to help shape a new, interdisciplinary research direction at the interface of AI and evolutionary microbiology.
+
+## Get in touch
+
+This is a preliminary, informal call ahead of the formal Doctoral School application — the official position will go live by the end of July 2026, with formal recruitment through the Doctoral School taking place in September 2026. If you're interested in the meantime, please contact **Rafal Mostowy** directly at **rafal.mostowy@uj.edu.pl**, and share your CV and a short description of why you're applying for this position in particular.
+
+<a class="btn-lab" href="mailto:rafal.mostowy@uj.edu.pl?subject=PhD%20application%20-%20AI-driven%20genomics%20of%20phage-encoded%20enzymes">Apply by email →</a>
+
+---
+
+[^1]: Otwinowska* A, Koszucki* J, Panicker VR, et al., Drulis-Kawa Z & Mostowy RJ (2026). Capsular specificity in temperate phages of *Klebsiella pneumoniae* is driven by diverse receptor-binding enzymes. *PLOS Biology*. https://doi.org/10.1371/journal.pbio.3003716
+
+[^2]: Otwinowska* A, Olejniczak* S, Latka A, et al., Mostowy RJ & Drulis-Kawa Z (2026). DepoCatalog: mapping diversity of 129 recombinantly produced *Klebsiella* phage depolymerases. *Nature Communications*. https://doi.org/10.1038/s41467-026-73570-7
+
+[^3]: Panicker VR, Smug BJ, Klein-Sousa V, Enright MC, Taylor NMI, Drulis-Kawa Z & Mostowy RJ (2026). Structural modularity of receptor-binding proteins underlies host-range strategy diversification in *Klebsiella pneumoniae* phages. *bioRxiv* 2026.05.12.724579. https://doi.org/10.64898/2026.05.12.724579

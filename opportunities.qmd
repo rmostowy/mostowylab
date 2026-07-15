@@ -28,6 +28,11 @@ toc: false
   <a class="btn-lab" href="job-postdoc-prophage-evolution-2026.html">Postdoctoral Researcher — Computational evolution of prophages →</a>
   <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 July 2026</div>
 </div>
+
+<div class="opening-block">
+  <a class="btn-lab" href="job-phd-ai-depolymerase-2026.html">PhD position — Using AI to study depolymerase evolution →</a>
+  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 31 August 2026</div>
+</div>
 ```
 
 ---

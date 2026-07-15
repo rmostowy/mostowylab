@@ -1,4 +1,8 @@
 ::: {.news-row}
+[15 July 2026]{.news-date} [**PhD alert!** New PhD position in using AI to study phage evolution — applications open now, deadline 31st August. [See the ad →](https://mostowylab.com/job-phd-ai-depolymerase-2026.html){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
 [1 July 2026]{.news-date} [**We're hiring!** New postdoctoral position in computational phage biology — applications open now, deadline 21st July. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
 :::
 
