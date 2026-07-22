@@ -11,7 +11,7 @@ toc: false
   <span class="jobad-pill pill-open">Open</span>
   <span class="jobad-meta-item">Krakow, Poland</span>
   <span class="jobad-meta-item">4 years</span>
-  <span class="jobad-meta-item">Deadline: 31 August 2026</span>
+  <span class="jobad-meta-item">Deadline: 15 August 2026</span>
 </div>
 ```
 
@@ -80,9 +80,13 @@ As a PhD student, you will:
 - Access to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation).
 - Freedom to help shape a new, interdisciplinary research direction at the interface of AI and evolutionary microbiology.
 
-## Get in touch
+## How to apply
+This is the first stage of recruitment, ahead of the formal PhD application through the Doctoral School. If you're interested, please email **Rafal Mostowy** at **rafal.mostowy@uj.edu.pl** by **15 August 2026**, with the subject line **"PhD Mostowy Lab 2026"**, and include:
 
-This is a preliminary, informal call ahead of the formal Doctoral School application — the official position will go live by the end of July 2026, with formal recruitment through the Doctoral School taking place in September 2026. If you're interested in the meantime, please contact **Rafal Mostowy** directly at **rafal.mostowy@uj.edu.pl**, and share your CV and a short description of why you're applying for this position in particular.
+- Your CV
+- A short letter of motivation explaining why you're applying for this position specifically
+
+Shortlisted candidates will be invited for an interview. Successful candidates will then proceed to the second, formal stage of recruitment through the Jagiellonian University Doctoral School on 1st September 2026.
 
 <a class="btn-lab" href="mailto:rafal.mostowy@uj.edu.pl?subject=PhD%20application%20-%20AI-driven%20genomics%20of%20phage-encoded%20enzymes">Apply by email →</a>
 

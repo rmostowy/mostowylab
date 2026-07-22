@@ -1,5 +1,9 @@
 ::: {.news-row}
-[15 July 2026]{.news-date} [**PhD alert!** New PhD position in using AI to study phage evolution — applications open now, deadline 31st August. [See the ad →](https://mostowylab.com/job-phd-ai-depolymerase-2026.html){target="_blank"}]{.news-text}
+[15 July 2026]{.news-date} [**PhD alert!** New PhD position in using AI to study phage evolution — applications open now, deadline 15th August 2026. [See the ad →](https://mostowylab.com/job-phd-ai-depolymerase-2026.html){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
+[10 July 2026]{.news-date} [Microbial Genomics attends [Viruses of Microbes 2026](https://www.vom2026.org){target="_blank"}! Rafal gave an oral presenatiaon, while Bogna, Karol and Vyshakh presented their work during one of the poster sessions. What an incredible event it was!]{.news-text}
 :::
 
 ::: {.news-row}
