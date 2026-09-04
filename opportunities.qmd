@@ -19,6 +19,12 @@ toc: false
   pages at the project root. A page placed even one folder down (e.g. job_ads/...) breaks
   the logo and every nav link, because the browser then looks for job_ads/research.html,
   which doesn't exist. Don't move job ad pages into a subfolder.
+  
+  Example:
+<div class="opening-block">
+  <a class="btn-lab" href="job-postdoc-prophage-evolution-2026.html">Postdoctoral Researcher — Computational evolution of prophages →</a>
+  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 July 2026</div>
+</div>
 
   HOW TO CLOSE AN AD: delete its button below. If no positions are open, replace this
   whole block with: <p>There are no open positions advertised right now. See below for
@@ -26,13 +32,9 @@ toc: false
 -->
 <div class="opening-block">
   <a class="btn-lab" href="job-postdoc-prophage-evolution-2026.html">Postdoctoral Researcher — Computational evolution of prophages →</a>
-  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 July 2026</div>
+  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 21 September 2026</div>
 </div>
 
-<div class="opening-block">
-  <a class="btn-lab" href="job-phd-ai-depolymerase-2026.html">PhD position — Using AI to study depolymerase evolution →</a>
-  <div style="font-size:12.5px; color:var(--color-text-muted); margin-top:8px;">Deadline: 15 August 2026</div>
-</div>
 ```
 
 ---

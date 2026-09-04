@@ -10,8 +10,8 @@ toc: false
 <div class="jobad-header">
   <span class="jobad-pill pill-open">Open</span>
   <span class="jobad-meta-item">Krakow, Poland</span>
-  <span class="jobad-meta-item">Up to 2 years</span>
-  <span class="jobad-meta-item">Deadline: 21 September 2026</span>
+  <span class="jobad-meta-item">1 year, extendable to 2</span>
+  <span class="jobad-meta-item">Deadline: 21 July 2026</span>
 </div>
 ```
 
@@ -70,7 +70,7 @@ The lab works closely with experimental collaborators, including the **phage bio
 
 ## What we offer
 
-- A postdoctoral position at MCB, Jagiellonian University in Krakow, funded via NCN until August 2028.
+- An initial 1-year, fully funded postdoctoral position at MCB, Jagiellonian University in Krakow, funded via NCN — with a strong possibility of extension to 2 years.
 - A collaborative environment linking computational genomics (Krakow) with experimental phage biology (Wroclaw).
 - Access to large, near-complete genome collections and in-house pipelines (GWAS-based capsule–phage association, AlphaFold3 structural annotation).
 <!--- A competitive salary.-->
@@ -78,15 +78,11 @@ The lab works closely with experimental collaborators, including the **phage bio
 - Freedom to shape the computational direction of the project and develop independent ideas within its broader scope.
 
 
-## How to apply?
-To apply, please do **both** of the following:
+## Get in touch
 
-- Send CV and a cover letter to **rafal.mostowy@uj.edu.pl**.
-- Submit an official job application following the instructions provided under the link below.
+This is a preliminary, informal call, not yet the official position advertisement — a full formal ad, with confirmed salary and application procedure, will follow once NCN funding details are settled. If you're interested, please contact **Rafal Mostowy** directly at **rafal.mostowy@uj.edu.pl**, ideally by **21 July 2026**, and share your CV and a short description of why you're applying for this position in particular.
 
-<a class="btn-lab" href="https://euraxess.ec.europa.eu/jobs/462648">Apply here →</a>
-
-The official application deadline is **21 September 2026**.
+<a class="btn-lab" href="mailto:rafal.mostowy@uj.edu.pl?subject=Postdoc%20application%20-%20Evolutionary%20Genomics%20of%20Prophages">Apply by email →</a>
 
 ---
 
