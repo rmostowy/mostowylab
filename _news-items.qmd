@@ -1,21 +1,53 @@
 ::: {.news-row}
-[31 August 2026]{.news-date} [**We're hiring!** The postdoctoral position in computational phage biology is now officially live — applications open now, deadline 21st September. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
+[17 Nov 2026]{.news-date} [Strategy meeting at MCB with all group leaders between 16-17 November, with productive discussions with our new director, Serghei Mangul.]{.news-text}
 :::
 
 ::: {.news-row}
-[15 July 2026]{.news-date} [**PhD alert!** New PhD position in using AI to study phage evolution — applications open now, deadline 15th August 2026. [See the ad →](https://mostowylab.com/job-phd-ai-depolymerase-2026.html){target="_blank"}]{.news-text}
+[13 Nov 2026]{.news-date} [Rafal visits the group of Pilar Domingo-Calap at the University of Valencia and gives a seminar to MSc students in virology. It was a pleasure to meet such a wonderful group of talented young researchers!]{.news-text}
 :::
 
 ::: {.news-row}
-[10 July 2026]{.news-date} [Microbial Genomics attends [Viruses of Microbes 2026](https://www.vom2026.org){target="_blank"}! Rafal gave an oral presenatiaon, while Bogna, Karol and Vyshakh presented their work during one of the poster sessions. What an incredible event it was!]{.news-text}
+[27 Oct 2026]{.news-date} [Rafal visits the group of Anna Dragoš at the University of Ljubljana. A wonderfully productive time for scientific discussions on phage recombination!]{.news-text}
 :::
 
 ::: {.news-row}
-[1 July 2026]{.news-date} [**We're hiring!** New postdoctoral position in computational phage biology — applications open now, deadline 21st July. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
+[20 Oct 2026]{.news-date} [The Scientific Advisory Board meeting takes place at MCB between 19-20 October, full of productive discussions and valuable feedback.]{.news-text}
 :::
 
 ::: {.news-row}
-[1 June 2026]{.news-date} [New preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of *Klebsiella pneumoniae* phage receptor binding proteins! [Read →](https://www.biorxiv.org/content/10.64898/2026.05.12.724579v2){target="_blank"}]{.news-text}
+[8 Oct 2026]{.news-date} [Rafal is an invited speaker at the IIMCB in Warsaw. It was a wonderful visit to the institute!]{.news-text}
+:::
+
+::: {.news-row}
+[2 Oct 2026]{.news-date} [Dr Robby Concha-Eloko visits MCB and gives a seminar on his great work on the prediction of depolymerases from lysogens in *Klebsiella pneumoniae*.]{.news-text}
+:::
+
+::: {.news-row}
+[1 Oct 2026]{.news-date} [Zuzanna Boczar joins Microbial Genomics as a PhD student. Her project will focus on using AI to study phage–bacteria interactions and evolution.]{.news-text}
+:::
+
+::: {.news-row}
+[7 Sep 2026]{.news-date} [Rafal visits the group of Alexander Harms at ETH Zurich, gives a talk, and has wonderful discussions with Martin Loessner, Emma Slack and others.]{.news-text}
+:::
+
+::: {.news-row}
+[31 Aug 2026]{.news-date} [**We're hiring!** The postdoctoral position in computational phage biology is now officially live — applications open now, deadline 21st September. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
+[15 Jul 2026]{.news-date} [**PhD alert!** New PhD position in using AI to study phage evolution — applications open now, deadline 15th August 2026. [See the ad →](https://mostowylab.com/job-phd-ai-depolymerase-2026.html){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
+[10 Jul 2026]{.news-date} [Microbial Genomics attends [Viruses of Microbes 2026](https://www.vom2026.org){target="_blank"}! Rafal gave an oral presenatiaon, while Bogna, Karol and Vyshakh presented their work during one of the poster sessions. What an incredible event it was!]{.news-text}
+:::
+
+::: {.news-row}
+[1 Jul 2026]{.news-date} [**We're hiring!** New postdoctoral position in computational phage biology — applications open now, deadline 21st July. [See the ad →](https://mostowylab.com/job-postdoc-prophage-evolution-2026.html){target="_blank"}]{.news-text}
+:::
+
+::: {.news-row}
+[1 Jun 2026]{.news-date} [New preprint! A huge piece of work by our PhD student, Vyshakh R Panicker, is out on bioRxiv – an atlas of structural modularity of *Klebsiella pneumoniae* phage receptor binding proteins! [Read →](https://www.biorxiv.org/content/10.64898/2026.05.12.724579v2){target="_blank"}]{.news-text}
 :::
 
 ::: {.news-row}
