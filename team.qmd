@@ -27,21 +27,15 @@ A focused team working on a well-defined set of questions, with each person taki
   
   
   <div class="team-card">
-    <div class="name">Dr Karol Ciuchcinski</div>
-    <div class="role">Postdoctoral researcher</div>
-    <div class="since">since December 2025</div>
-  </div>
-
-  <div class="team-card">
     <div class="name">Janusz Koszucki</div>
-    <div class="role">PhD student</div>
+    <div class="role">PhD student · thesis submitted</div>
     <div class="since">since January 2020</div>
   </div>
 
   <div class="team-card">
-    <div class="name">Wanangwa Ndovie</div>
+    <div class="name">Zuzanna Boczar</div>
     <div class="role">PhD student</div>
-    <div class="since">since October 2021 · thesis submitted</div>
+    <div class="since">since October 2026</div>
   </div>
 
   <div class="team-card">
@@ -131,6 +125,26 @@ A focused team working on a well-defined set of questions, with each person taki
       <a href="https://scholar.google.com/citations?user=FBpahnAAAAAJ" target="_blank">Google Scholar</a>
       </td>
     </tr>
+
+    <tr>
+      <td>Dr Wanangwa Ndovie</td>
+      <td>PhD student</td>
+      <td>October 2021 – September 2026</td>
+      <td>
+      <a href="https://www.linkedin.com/in/wanangwa-ndovie-820b4127a/" target="_blank">LinkedIn</a> ·
+      </td>
+    </tr>
+
+    <tr>
+      <td>Dr Karol Ciuchiński</td>
+      <td>postdoc</td>
+      <td>December 2025 – September 2026</td>
+      <td>
+      <a href="https://www.linkedin.com/in/karol-ciuchci%C5%84ski-43855716b/" target="_blank">LinkedIn</a> ·
+      <a href="https://scholar.google.com/citations?user=fsWUt7YAAAAJ&hl=pl" target="_blank">Google Scholar</a>
+      </td>
+    </tr>
+    
   </tbody>
 </table>
 ```
